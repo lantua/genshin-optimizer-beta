@@ -1,0 +1,33 @@
+{
+  "dmg": "DMG",
+  "hits": "{{count}} Hit",
+  "hits_plural": "{{count}} Hits",
+  "lessPercentHP": "< {{percent}}% HP",
+  "stack": "{{count}} Stack",
+  "stack_plural": "{{count}} Stacks",
+  "hitOp": {
+    "normal": "Normal Attack hits on oppoents",
+    "charged": "Charged Attack hits on oppoents",
+    "plunging": "Plunging Attack hits on oppoents",
+    "skill": "Elemental Skill hits on oppoents",
+    "burst": "Elemental Burst hits on oppoents",
+    "geo": "Geo DMG hits on opponents",
+    "anemo": "Anemo DMG hits on opponents",
+    "hydro": "Hydro DMG hits on opponents",
+    "cryo": "Cryo DMG hits on opponents",
+    "pyro": "Pyro DMG hits on opponents",
+    "electro": "Electro DMG hits on opponents"
+  },
+  "afterUse": {
+    "skill": "After using Elemental Skill",
+    "burst": "After using Elemental Burst"
+  },
+  "increase": {
+    "atk": "ATK Increase"
+  },
+  "eleAbsor": "Elemental Absorption",
+  "eleSwirled": "Swirled Element",
+  "absorDot": "Absorption DoT",
+  "incInterRes": "Increase resistance to interruption",
+  "charges": "Charges"
+}
