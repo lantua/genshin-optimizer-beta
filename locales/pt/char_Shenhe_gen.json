@@ -150,7 +150,7 @@
     "description": {
       "0": "Personagens que estejam sob o efeito de <strong>Pena Gelada</strong> de Shenhe farão com que, ao desencadearem o Dano Bônus de Pena Gelada, Shenhe obtenha uma carga de Firmamento Gelado:",
       "1": [
-        " Quando Shenhe lançar <strong>Invocação Espiritual</strong>, ela consumirá todos os Firmamentos Gelados, e de acordo com as cargas elimnadas, aumentará o Dano de Invocação Espiritual em 5% por cada carga consumida;",
+        " Quando Shenhe lançar <strong>Invocação Espiritual</strong>, ela consumirá todos os Firmamentos Gelados, e de acordo com as cargas eliminadas, aumentará o Dano de Invocação Espiritual em 5% por cada carga consumida;",
         " Esse efeito pode ser acumulado em até 50 vezes por 60s."
       ]
     }

@@ -88,11 +88,11 @@
       "2": "Ataques Normais, Carregados e Imersivos serão convertidos em <geo>Dano Geo</geo> que não pode ser substituído.",
       "3": "A velocidade do Ataque Normal de Itto será aumentada, e o ATQ será aumentado com base em sua DEF.",
       "4": "O primeiro e terceiro ataque concederão cada um a Arataki Itto 1 carga de Superforça Superlativa quando eles atingirem os adversários.",
-      "5": "Itto ganha 20% de RES Elemental e Física.",
+      "5": "Itto perde 20% de RES Elemental e Física.",
       "6": "<br/>",
       "7": "O estado de Rei Oni Furioso será removido quando Itto deixa o campo.",
       "8": "<br/>",
-      "9": "<i>Esta é a maior super ultra mega técnica incrível do Itto (auto-proclamada). É inútil para Arataki Itto imitar qualquer outra coisa para ficar mais forte, pois ele, e nenhum outro, é o mais forte, o mais terrível oni da terra.</i>",
+      "9": "<i>Esta é a maior super ultra mega técnica incrível do Itto (segundo ele). É inútil para Arataki Itto imitar qualquer outra coisa para ficar mais forte, pois ele, e nenhum outro, é o mais forte, o mais terrível oni da terra.</i>",
       "10": "<i>Shouta acha isso bem legal.</i>"
     },
     "skillParams": {
@@ -139,7 +139,7 @@
   "constellation1": {
     "name": "Fique um Tempo e Escute",
     "description": {
-      "0": "Ao lançar <strong>Descendência Real: Contemplem, Itto o Maligno!!</strong>, Arataki Itto obtém 2 cargas de Superforça Superlativa. Após 1s, Arataki Itto obtém outra carga de Superforça Superlativa a cada 0,5s, durante 1,5s."
+      "0": "Ao lançar <strong>Descendência Real: Contemplem, Itto o Maligno!</strong>, Arataki Itto obtém 2 cargas de Superforça Superlativa. Após 1s, Arataki Itto obtém outra carga de Superforça Superlativa a cada 0,5s, durante 1,5s."
     }
   },
   "constellation2": {
@@ -159,7 +159,7 @@
   "constellation4": {
     "name": "Cárcere Privado",
     "description": {
-      "0": "Depois que o \"Rei Oni Furioso\" aplicado pela <strong>Descendência Real: Contemplem, Itto o Maligno!!</strong> terminar, a DEF e o ATQ de todos os personagens da equipe que se encontrarem próximos aumentará em 20% durante 10 segundos."
+      "0": "Depois que o \"Rei Oni Furioso\" aplicado pela <strong>Descendência Real: Contemplem, Itto o Maligno!</strong> terminar, a DEF e o ATQ de todos os personagens da equipe que se encontrarem próximos aumentará em 20% durante 10 segundos."
     }
   },
   "constellation5": {

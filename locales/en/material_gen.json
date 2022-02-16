@@ -435,6 +435,10 @@
     "name": "Arataki Itto",
     "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka... Wait, what? You've never heard of them? Are you trying to be funny here?"
   },
+  "YaeMiko": {
+    "name": "Yae Miko",
+    "description": "Lady Guuji of the Grand Narukami Shrine also serves as the editor-in-chief of Yae Publishing House. Unimaginable intelligence and cunning are hidden under her beautiful appearance."
+  },
   "Aloy": {
     "name": "Aloy",
     "description": "Formerly an outcast, now a hunter of unparalleled skill. Ready to do the right thing at any time."
@@ -622,6 +626,10 @@
   "AratakiIttosStellaFortuna": {
     "name": "Arataki Itto's Stella Fortuna",
     "description": "Arataki Itto's Constellation Activation Material"
+  },
+  "YaeMikosStellaFortuna": {
+    "name": "Yae Miko's Stella Fortuna",
+    "description": "Yae Miko's Constellation Activation Material"
   },
   "AloysStellaFortuna": {
     "name": "Aloy's Stella Fortuna",
@@ -1494,6 +1502,10 @@
   "OfMountainsAndSeas": {
     "name": "\"Of Mountains and Seas\"",
     "description": "Notes penned by Leonard, an adventurer from the distant past. Clearly an ancient text, it has suffered much wear and tear. Most of the content has been lost to the ravages of time, with just a few fragments remaining."
+  },
+  "DraftManuscriptOfHyakuninIkkiTheGreatestBattle": {
+    "name": "Draft Manuscript of \"Hyakunin Ikki: The Greatest Battle\"",
+    "description": ""
   },
   "WyattsRedKey": {
     "name": "Wyatt's Red Key",
@@ -3813,11 +3825,11 @@
   },
   "NewChroniclesOfTheSixKitsunePrologue": {
     "name": "New Chronicles of the Six Kitsune: Prologue",
-    "description": "Stories about memories are always closely intertwined with transience. This book is not all-new, but is an adaptation of \"Yuurakusai's Chronicles of the Six Kitsune.\""
+    "description": "Stories about memories are always closely intertwined with transience. This book is not all-new, but is an adaptation of \"Urakusai's Chronicles of the Six Kitsune.\""
   },
   "NewChroniclesOfTheSixKitsuneI": {
     "name": "New Chronicles of the Six Kitsune (I)",
-    "description": "The story of the \"Black Fox\" Itaru was actually the third volume in the original \"Yuurakusai's Chronicles of the Six Kitsune.\" It appears at the front of this edition due to the writer's personal preference."
+    "description": "The story of the \"Black Fox\" Itaru was actually the third volume in the original \"Urakusai's Chronicles of the Six Kitsune.\" It appears at the front of this edition due to the writer's personal preference."
   },
   "NewChroniclesOfTheSixKitsuneII": {
     "name": "New Chronicles of the Six Kitsune (II)",
@@ -3825,15 +3837,15 @@
   },
   "NewChroniclesOfTheSixKitsuneIII": {
     "name": "New Chronicles of the Six Kitsune (III)",
-    "description": "In the 500-year-old \"Yuurakusai's Chronicles of the Six Kitsune,\" Youzan and Yui went on to have their own tales. But at this time, the mother-daughter pair are still reliant on Itaru to rescue them."
+    "description": "In the 500-year-old \"Urakusai's Chronicles of the Six Kitsune,\" Youzan and Yui went on to have their own tales. But at this time, the mother-daughter pair are still reliant on Itaru to rescue them."
   },
   "NewChroniclesOfTheSixKitsuneIV": {
     "name": "New Chronicles of the Six Kitsune (IV)",
-    "description": "This is the tensest tale of the series, said to have been written by Yuurakusai upon his return from Liyue. It is featured in full in this writer's adaptation."
+    "description": "This is the tensest tale of the series, said to have been written by Urakusai upon his return from Liyue. It is featured in full in this writer's adaptation."
   },
   "SangonomiyaChronicles": {
     "name": "Sangonomiya Chronicles",
-    "description": "Historical annals written by the famous Shogunate historian Kujou Michizane, who was known as the \"Kujou Sanpitsu-Tou,\" or \"The Great Calligrapher.\" It chronicles the history of Watatsumi Island in broad strokes."
+    "description": "Historical annals written by the famous Shogunate historian Kujou Michizane, who was known as one of the \"The Three Kujou Dignitaries,\" or \"The Great Calligrapher.\" It chronicles the history of Watatsumi Island in broad strokes."
   },
   "TheSagaOfHamavaranPreface": {
     "name": "The Saga of Hamavaran (Preface)",
@@ -4211,9 +4223,57 @@
     "name": "Lyudochka's Fortune Slip",
     "description": "A specially made fortune slip that describes how your luck will be like today. There is nothing different about this Fortune Slip, save for the fact that you used it to open Lyudochka's heart.\\nNow, this Fortune Slip has returned to your hands, along with her heartfelt blessings. If you've got the time, why not go to the Grand Narukami Shrine to see her?"
   },
+  "TheMiraculousAdventuresOfTheTraveler": {
+    "name": "The Miraculous Adventures of the Traveler",
+    "description": "\"This is a rather orthodox light novel, with its contents essentially being an edited version of real life in Teyvat. What is surprising, however, is that the author seems to be highly knowledgeable about Watatsumi Island, with many vivid, almost lifelike descriptions.\" — Ms. Hina"
+  },
+  "LightRealmSigil": {
+    "name": "Light Realm Sigil",
+    "description": "A mark symbolizing the recognition of Enkanomiya's Tokoyo Ookami.\\nThey can be offered up to the Statue of the Vassals of Watatsumi, thus upgrading the Bokuso Box."
+  },
+  "LightRealmCore": {
+    "name": "Light Realm Core",
+    "description": "You discovered this mysterious stone while exploring the darkened realm of Enkanomiya.\\nThe Light Realm gave humans additional means to resist the Abyss."
+  },
+  "AFirsthandGuideToSummoningSpirits": {
+    "name": "A Firsthand Guide to Summoning Spirits",
+    "description": "A light novel that has been popular in Inazuma lately. It contains all manner of bizarre tales involving ancient youkai."
+  },
+  "DreamSakura": {
+    "name": "Dream Sakura",
+    "description": "You held a single sakura petal in your hand before leaving Raiden Makoto's realm of consciousness.\\nIts existence is a mystery. It appears no different from ordinary sakura pedals, and there it silently sits in your storage just like any of the others. But you can no longer touch it, nor can you feel its weight or warmth. When an object loses any of the attributes that one would normally ascribe to it, how can its \"existence\" be proven for sure?\\nAs you think back on the many sights the petal must have witnessed in the past, a certain guess comes to mind: that which sustains this sakura petal's existence must be someone's will. But as to who this person is, and whether they are intentionally or unintentionally keeping this petal in existence, neither can be known. Nor can you prove whether that willpower is one derived from yearning, trust, or gratitude.\\nPerhaps, when \"that person's will\" changes, so too will this sakura petal disappear.\\nJust to be safe, it might be best to check back from time to time and see if it still exists."
+  },
+  "AphotiumOre": {
+    "name": "Aphotium Ore",
+    "description": "A special ore created due to the Watatsumi Goryou Matsuri. As Enkanomiya's environment has undergone extreme changes, the memories and thoughts of Watatsumi Omikami scattered throughout Enkanomiya have coalesced into medullae, which then transformed into ore."
+  },
+  "TokoyoLegume": {
+    "name": "Tokoyo Legume",
+    "description": "A special plant that was produced via the Watatsumi Goryou Matsuri. With the awakening of the Sangacorexes, the elemental energies within Enkanomiya have been pacified. This is a naturally-growing fertilizing crop that will turn into loam within the soil once it decays."
+  },
+  "HuskGem": {
+    "name": "Husk Gem",
+    "description": "A jewel that fell from the armor of a special Shadowy Husk after you defeated it. You can feel a will surging within it. Perhaps it might be more correct to say that this will manifested itself through the armor rather than manipulated it."
+  },
+  "FragmentedAccessory": {
+    "name": "Fragmented Accessory",
+    "description": "A small accessory you got from Kokomi. It seems to be the fragment of another object. According to her, it might come in handy at some point."
+  },
+  "TsumisMap": {
+    "name": "Tsumi's Map",
+    "description": "A map drawn by Tsumi. There are some markings on it."
+  },
   "HakuenMichimitsuAmenoma": {
     "name": "Hakuen Michimitsu Amenoma",
     "description": "The heirloom blade of the Iwakura Clan.\\nAlthough the one who forged this blade possessed great skills, and though it is true that this sword has slain many a foe, it does not possess any special powers. Nor has the Iwakura Succession ever obtained a Vision. Their excellent swordsmanship was purely a result of their honing of mind, body, and technique.\\nThis blade has been submerged in water for a long time and seems to have completely rusted."
+  },
+  "DamagedStoneSlate": {
+    "name": "Damaged Stone Slate",
+    "description": "A seemingly ordinary stone slate. Who knows what secrets it might hold..."
+  },
+  "MysteriousStoneSlate": {
+    "name": "Mysterious Stone Slate",
+    "description": "The final stone slate you obtained. Secrets within secrets, eh?"
   },
   "PyroShard": {
     "name": "Pyro Shard",
@@ -6103,6 +6163,34 @@
     "name": "Cloud-Shrouded Jade",
     "description": "Yun Jin's specialty. This sweet and sticky snack will somehow not affect your throat in any negative way, which is why it's Yun Jin's favorite. The aftertaste is most elegant, not something one would get sick of quickly. Come to think of it... This is quite a decent bit more than she would usually make for herself — but who are you to question her kindness?"
   },
+  "SuspiciousSangayaki": {
+    "name": "Suspicious Sangayaki",
+    "description": "A simple, humble fisherman's side dish. The overabundance of salt and rank smell of fish roll like a storm through your olfactory senses. Please keep your hands steady — please."
+  },
+  "Sangayaki": {
+    "name": "Sangayaki",
+    "description": "A simple, humble fisherman's side dish. Freshly caught fish is de-skinned and sliced, minced together with Snapdragon, mixed with miso and salt to form a batter, and then finally grilled. The lovely scent enters your nose long before the food enters your mouth. Three servings later, and you're still raring to go for more."
+  },
+  "DeliciousSangayaki": {
+    "name": "Delicious Sangayaki",
+    "description": "A simple, humble fisherman's side dish. Full of nutrition and flavor. The lightly charred, yellowed exterior wraps the tender insides — providing two pleasures at once! Fish paste was already quite delectable raw, and the charcoal grilling only makes it better."
+  },
+  "SuspiciousUdonNoodles": {
+    "name": "Suspicious Udon Noodles",
+    "description": "Highly springy noodles. The overly bland noodles and soup make for a boring experience. Looks like you've got to pay a bit more attention to seasoning next time."
+  },
+  "UdonNoodles": {
+    "name": "Udon Noodles",
+    "description": "Highly springy noodles. After several rounds of rising and pulling, the result is silky smooth yet springy noodles. Unlike ramen, which prizes dense flavors, udon noodles use light flavors to heal the Inazuman soul."
+  },
+  "DeliciousUdonNoodles": {
+    "name": "Delicious Udon Noodles",
+    "description": "Highly springy noodles. The snow-white, soft yet elastic udon, and the elegantly flavored soup combine to make a simple but comforting dish. The faintest scent of wheat may eventually travel down into your belly together with the sweet noodles, but the aftertaste of warmth will remain."
+  },
+  "FukuuchiUdon": {
+    "name": "Fukuuchi Udon",
+    "description": "Yae Miko's specialty. The Fried Tofu in here is specially made by the solemn Lady Kitsune. It is said that if you eat it all at one go with sincerity in your heart, you will have the protection of the Great Kitsune — misfortune shall flee and fortune abound!"
+  },
   "RecipeItem": {
     "name": "Recipe Item",
     "description": "Item for unlocking recipes"
@@ -6526,6 +6614,14 @@
   "RecipeDragonBeardNoodles": {
     "name": "Recipe: Dragon Beard Noodles",
     "description": "A detailed step-by-step recipe for making Dragon Beard Noodles."
+  },
+  "RecipeSangayaki": {
+    "name": "Recipe: Sangayaki",
+    "description": "A detailed step-by-step recipe for making Sangayaki."
+  },
+  "RecipeUdonNoodles": {
+    "name": "Recipe: Udon Noodles",
+    "description": "A detailed step-by-step recipe for making Udon Noodles."
   },
   "CraftedItems": {
     "name": "Crafted Items",
@@ -7022,6 +7118,18 @@
   "DragonheirsFalseFin": {
     "name": "Dragonheir's False Fin",
     "description": "A piece of biological tissue that you found after defeating the Bathysmal Vishaps.\\nAlthough it looks like a fin of some kind, it does not actually have any function at all.\\nThe people of Byakuyakoku once investigated the Bathysmal Vishaps quite deeply. Their most distinctive feature was the ability to choose what traits it wished to pass on to its offspring. Because of their great hatred for humanity, these vishaps will lose any visual acuity by the time they reach maturity. At the same time, they have also evolved a certain degree of elemental polymorphism for combat purposes."
+  },
+  "MudraOfTheMaleficGeneral": {
+    "name": "Mudra of the Malefic General",
+    "description": "A puppet joint obtained from the Plane of Euthymia. The gesture here symbolizes the concept that \"one sees and one does.\"\\nEven now that \"she\" has become a calamitous deity, she can still utilize such transcendent gestures, her sword flashing forth as swiftly as her eyes may see.\\nAnd yet, as the countless disasters ground on for far too long, the fierce general's shell had to embrace a new spring."
+  },
+  "TearsOfTheCalamitousGod": {
+    "name": "Tears of the Calamitous God",
+    "description": "A puppet joint obtained from the Plane of Euthymia. The gesture here is in the shape of the baleful Eye of Stormy Judgment.\\nSince they are able to bring down curse and catastrophe alike with a mere gaze, it might seem natural to blame life's misfortunes on calamitous deities. However, if you think about it a little harder, if your will is strong enough, and if your convictions are firm enough...\\nThe catastrophes go on for too long. Even a baleful gaze must wash itself with tears."
+  },
+  "TheMeaningOfAeons": {
+    "name": "The Meaning of Aeons",
+    "description": "A small piece of headgear obtained once the dust settled in the Plane of Euthymia.\\nOne thought may end all calamity, and there will always be thoughts that may transcend time.\\nAmid all this, one wonders if Makoto's true meaning was successfully communicated or not."
   },
   "TileOfDecarabiansTower": {
     "name": "Tile of Decarabian's Tower",
@@ -7594,6 +7702,10 @@
   "Alkahest": {
     "name": "Alkahest",
     "description": "Specialized refinement material for the Cinnabar Spindle.\\nA silver substance shining with an otherworldly light that is a deadly corrosive poison to things of this world. And yet it also has the power to sublimate matter..."
+  },
+  "OintmentOfSight": {
+    "name": "Ointment of Sight",
+    "description": "Specialized refinement material for the Oathsworn Eye.\\nSpecial Deep Sea Unagi oil, which was once used to maintain Enkanomiya's sacred artifacts, has been carefully processed for the purpose of making this shining eye most bright indeed."
   },
   "FalconsDance": {
     "name": "Falcon's Dance",
@@ -8207,6 +8319,18 @@
     "name": "Travel Notes: Flowing Hues",
     "description": "Namecard style.\\nThe luxurious colors flow past — all things are renewed."
   },
+  "CelebrationBingeVessel": {
+    "name": "Celebration: Binge Vessel",
+    "description": "Namecard.\\nThere's a great many stories here, but no alcohol, so it's safe for Paimon to drink."
+  },
+  "YaeMikoKitsuneDreaming": {
+    "name": "Yae Miko: Kitsune Dreaming",
+    "description": "Namecard style.\\nWhere can Yae Miko's fox form be found? In your dreams, that's where."
+  },
+  "TravelNotesAwakening": {
+    "name": "Travel Notes: Awakening",
+    "description": "Namecard style.\\nThe three realms quake, heaven and earth awaken. The Sangacorexes, too, rise again from their eternal slumber."
+  },
   "AnemoculusResonanceStone": {
     "name": "Anemoculus Resonance Stone",
     "description": "A stone that can be used in Mondstadt to search for nearby Anemoculi.\\nThis man-made stone plate possesses a certain characteristic similar to that of the Anemo Statues of The Seven, giving it the power to resonate with Anemoculi.\\nOculus Resonance Stones are crude imitations of the Statues of The Seven constructed by the ancients. But it is precisely this crudeness that makes them crave the power of elemental oculi, thus providing devout worshippers and adventurers alike a prime opportunity to collect oculi."
@@ -8367,6 +8491,10 @@
     "name": "Launch Tube",
     "description": "A special device created by the artisan Pengyi. It comes with functions that allow for the creation and automated launch of fireworks. In the hands of someone creative, it will surely see great use in the creation of unique and radiant fireworks shows."
   },
+  "BokusoBox": {
+    "name": "Bokuso Box",
+    "description": "Use this to clear a certain area in Enkanomiya of the darkness' influence.\\nThe name \"Bokuso\" is formed from \"boku,\" meaning \"to draw near to what is good,\" and \"so,\" meaning \"to shun that which is tainted.\""
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Instructions: Anemoculus Resonance Stone",
     "description": "Detailed step-by-step instructions for making an Anemoculus Resonance Stone. Master them and you will be able to create a tool to guide you to towards Anemoculi."
@@ -8526,6 +8654,22 @@
   "OpulentSplendor": {
     "name": "Opulent Splendor",
     "description": "Keqing's formal wear. Amidst the beautiful dawn of the Lantern Rite, the threads weaved by days of hard work intertwine into a light yet magnificent appearance."
+  },
+  "GunnhildrsLegacy": {
+    "name": "Gunnhildr's Legacy",
+    "description": "Jean's outfit. This classic knight's ceremonial outfit is suited to all manner of occasions."
+  },
+  "Outrider": {
+    "name": "100% Outrider",
+    "description": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!"
+  },
+  "PactOfStarsAndMoon": {
+    "name": "Pact of Stars and Moon",
+    "description": "Mona's outfit. A costume made specifically to encompass the astrological concept of \"the destined moment,\" thanks to the 30% discount ticket she got from the planetarium refund."
+  },
+  "ToTheChurchsFreeSpirit": {
+    "name": "To the Church's Free Spirit",
+    "description": "Rosaria's outfit. This seems to have been custom-made for her by the Church."
   },
   "AdventurerCamp": {
     "name": "Adventurer Camp",
@@ -8713,7 +8857,7 @@
   },
   "WakefulSpring": {
     "name": "Wakeful Spring",
-    "description": "A detailed step-by-step blueprint for making a Wakeful Spring.\\nA feature-complete open-air hot spring. The minerals and elements present here may not be the equal of Aisa Bathhouse, but hot springs of this kind win in terms of their relaxed, casual atmosphere and the relative lack of regulations.\\nJust a half-hour soak in here and all the fatigue you've accumulated from work will dissipate into nothingness, replaced by a reawakened vigor, and if there's time, you can lean against a nearby white stone and have some tea and a chat with your friends.\\nOf course, please keep some basic etiquette in mind before entering: enjoying the hot spring with friends is fine, but do not stay too long. If you spend too much time in there with chatty folk like the Queen of the Summer Festival, you might get dizzy.\\nAfter using this item, you can view it in the Placement Screen.\\nThis Furnishing Set is favored by the following companions: Yoimiya, Gorou"
+    "description": "A detailed step-by-step blueprint for making a Wakeful Spring.\\nA feature-complete open-air hot spring. The minerals and elements present here may not be the equal of Aisa Bathhouse, but hot springs of this kind win in terms of their relaxed, casual atmosphere and the relative lack of regulations.\\nJust a half-hour soak in here and all the fatigue you've accumulated from work will dissipate into nothingness, replaced by a reawakened vigor, and if there's time, you can lean against a nearby white stone and have some tea and a chat with your friends.\\nOf course, please keep some basic etiquette in mind before entering: enjoying the hot spring with friends is fine, but do not stay too long. If you spend too much time in there with chatty folk like the Queen of the Summer Festival, you might get dizzy.\\nAfter using this item, you can view it in the Placement Screen.\\nThis Furnishing Set is favored by the following companions: Yoimiya, Gorou, Yae Miko"
   },
   "RuralConcealment": {
     "name": "Rural Concealment",
@@ -8721,7 +8865,7 @@
   },
   "AncientBranchShrine": {
     "name": "Ancient Branch Shrine",
-    "description": "A detailed step-by-step blueprint for making an Ancient Branch Shrine.\\nThe architectural design, the bright red paint, and the overall layout of the serene and beautiful shrine comes in the same style as the Grand Narukami Shrine. It serves as a place of meditation for mortals, but for Her Excellency the Shogun, the sight of it was enough to form a hazy, but vivid memory of a bygone era...\\nAfter using this item, you can view it in the Placement Screen.\\nThis Furnishing Set is favored by the following companions: Raiden Shogun"
+    "description": "A detailed step-by-step blueprint for making an Ancient Branch Shrine.\\nThe architectural design, the bright red paint, and the overall layout of the serene and beautiful shrine comes in the same style as the Grand Narukami Shrine. It serves as a place of meditation for mortals, but for Her Excellency the Shogun, the sight of it was enough to form a hazy, but vivid memory of a bygone era...\\nAfter using this item, you can view it in the Placement Screen.\\nThis Furnishing Set is favored by the following companions: Raiden Shogun, Yae Miko"
   },
   "MilitaryExerciseGrounds": {
     "name": "Military Exercise Grounds",
@@ -9619,6 +9763,18 @@
     "name": "Estate Storehouse: We Have Reserves",
     "description": "A detailed step-by-step blueprint for making an Estate Storehouse: We Have Reserves.\\nAfter using this item, you can view it in the Creation Screen."
   },
+  "InazumanHomeWatatsumiReminiscence": {
+    "name": "Inazuman Home: Watatsumi Reminiscence",
+    "description": "A detailed step-by-step blueprint for making an Inazuman Home: Watatsumi Reminiscence.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "InazumanHomeHouseOfCoral": {
+    "name": "Inazuman Home: House of Coral",
+    "description": "A detailed step-by-step blueprint for making an Inazuman Home: House of Coral.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "InazumanHomeStormhouse": {
+    "name": "Inazuman Home: Stormhouse",
+    "description": "A detailed step-by-step blueprint for making an Inazuman Home: Stormhouse.\\nAfter using this item, you can view it in the Creation Screen."
+  },
   "BirdAndBlossomDesignFountain": {
     "name": "Bird and Blossom Design Fountain",
     "description": "A detailed step-by-step blueprint for making a Bird and Blossom Design Fountain.\\nAfter using this item, you can view it in the Creation Screen."
@@ -9670,6 +9826,10 @@
   "OfFieldsGreenClearSpringFountain": {
     "name": "Of Fields Green: Clear Spring Fountain",
     "description": "A detailed step-by-step blueprint for making Of Fields Green: Clear Spring Fountain.\\nAfter using this item, you can view it in the Creation Screen."
+  },
+  "SubSpaceCabochonInSoaringFlight": {
+    "name": "Sub-Space Cabochon: In Soaring Flight",
+    "description": "A detailed step-by-step blueprint for making a Sub-Space Cabochon: In Soaring Flight.\\nAfter using this item, you can view it in the Creation Screen."
   },
   "AdeptusGate": {
     "name": "Adeptus Gate",

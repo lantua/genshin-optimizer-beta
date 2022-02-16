@@ -128,7 +128,7 @@
   "passive2": {
     "name": "Dominance of Earth",
     "description": {
-      "0": "Zhongli mendapat bonus DMG berdasarkan Max HP miliknya:",
+      "0": "Zhongli menghasilkan bonus DMG berdasarkan Max HP miliknya:",
       "1": [
         "Meningkatkan DMG Normal Attack, Charged Attack, dan Plunging Attack sebesar 1,39% dari Max HP Zhongli.",
         "Meningkatkan DMG <strong>Dominus Lapidis</strong> Stone Stele, resonansi, dan DMG tekan sebesar 1,9% Max HP Zhongli.",

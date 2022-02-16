@@ -157,7 +157,7 @@
   "constellation2": {
     "name": "Chaîne lunaire",
     "description": {
-      "0": "Les attaques normales ont 20 % de chances d'être suivies par une attaquée chargée.",
+      "0": "Les attaques normales ont 20 % de chances d'être suivies par une attaque chargée.",
       "1": "Cet effet peut être déclenché une fois toutes les 5 s."
     }
   },

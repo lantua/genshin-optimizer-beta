@@ -425,7 +425,7 @@
   },
   "Gorou": {
     "name": "Gorou",
-    "description": "O grande general das tropas da Ilha Watatsumi. Ele é extremamente confiado por seus subordinados."
+    "description": "O grande general das tropas da Ilha Watatsumi. Seus subordinados acreditam profundamente nele."
   },
   "KujouSara": {
     "name": "Kujou Sara",
@@ -434,6 +434,10 @@
   "AratakiItto": {
     "name": "Arataki Itto",
     "description": "O primeiro e maior chefe da Gangue Arataki, famosa em Hanamizaka, na cidade de Inazuma... Espere, o quê? Nunca ouviu falar deles? Sério?"
+  },
+  "YaeMiko": {
+    "name": "Yae Miko",
+    "description": "A Senhorita Guuji do Grande Santuário Narukami, e também a Editora-Chefe da Editora Yae. Por trás de sua bela aparência escondem-se sabedoria e astúcia inimagináveis."
   },
   "Aloy": {
     "name": "Aloy",
@@ -622,6 +626,10 @@
   "AratakiIttosStellaFortuna": {
     "name": "Stella Fortuna de Arataki Itto",
     "description": "Material de Ativação da Constelação de Arataki Itto"
+  },
+  "YaeMikosStellaFortuna": {
+    "name": "Stella Fortuna de Yae Miko",
+    "description": "Material de Ativação de Constelação de Yae Miko"
   },
   "AloysStellaFortuna": {
     "name": "Stella Fortuna de Alloy",
@@ -1494,6 +1502,10 @@
   "OfMountainsAndSeas": {
     "name": "Livro das Montanhas e dos Mares",
     "description": "O diário do aventureiro antigo Leonard. Parece que foi bem danificado pelo tempo. A maior parte do conteúdo foi perdido e só sobraram alguns segmentos."
+  },
+  "DraftManuscriptOfHyakuninIkkiTheGreatestBattle": {
+    "name": "Rascunho de Manuscrito do \"Hyakunin Ikki: A Grande Batalha\"",
+    "description": ""
   },
   "WyattsRedKey": {
     "name": "Chave Vermelha de Wyatt",
@@ -3153,11 +3165,11 @@
   },
   "TheVioletOnisBlade": {
     "name": "A Espada do Oni Violeta",
-    "description": "A espada favorita de Yanagiha Arashi, um membro expulso da Técnica Iwakura.\\nÉ uma cópia restante de uma certa espada famosa, e foi reforjada após ter sido quebrada. É um par com a arma de Okazaki Toraemon."
+    "description": "A espada favorita de Yanagiha Arashi, um membro expulso da escola da Técnica Iwakura.\\nÉ uma cópia restante de uma certa espada famosa, e foi reforjada após ter sido quebrada. É um par com a arma de Okazaki Toraemon."
   },
   "TheCrimsonOnisBlade": {
     "name": "A Espada do Oni Carmesim",
-    "description": "A espada favorita de Okazaki Toraemon, um membro expulso da Técnica Iwakura.\\nÉ uma cópia restante de uma certa espada famosa, e foi reforjada após ter sido quebrada. É um par com a arma de Yanagiha Arashi."
+    "description": "A espada favorita de Okazaki Toraemon, um membro expulso da escola da Técnica Iwakura.\\nÉ uma cópia restante de uma certa espada famosa, e foi reforjada após ter sido quebrada. É um par com a arma de Yanagiha Arashi."
   },
   "ChangTheNinthsGift": {
     "name": "Um Presente para Chang, o Nono",
@@ -3196,8 +3208,8 @@
     "description": "Um Frango de Pimenta de Jueyun feito especialmente pelo Chef Mao. Ao ser feito, foi adicionado Erva Marinha, Anêmonas do Mar, entre outros ingredientes. Não se sabe que sabor terá ao provar..."
   },
   "XianglingsHandwrittenNotes": {
-    "name": "Notas Escritas à Mão de Xiangling",
-    "description": "Anotações feitas à mão por Xiangling. Nelas estão registradas algumas de suas... Ideias mirabolantes sobre culinária."
+    "name": "Notas Escritas à Mão por Xiangling",
+    "description": "Anotações feitas à mão por Xiangling. Nelas estão registradas algumas de suas... ideias mirabolantes sobre culinária."
   },
   "YellowedLetter": {
     "name": "Carta Amarelada",
@@ -3300,7 +3312,7 @@
     "description": "Um fragmento da Rédea da Ressurreição. Os três fragmentos também seguem a \"Regra de Três\"."
   },
   "ReinsOfRevival": {
-    "name": "Rédea da Resurreição",
+    "name": "Rédea da Ressurreição",
     "description": "Um tesouro herdado do Reino de Byakuya. Além de representar a maior autoridade na terra, também concede a habilidade de controlar as almas deste reino."
   },
   "OfferingsOfTheNarrows": {
@@ -3833,7 +3845,7 @@
   },
   "SangonomiyaChronicles": {
     "name": "Notas de Sangonomiya",
-    "description": "Registros históricos escritos pelo famoso historiador do Shogunato, Kujou Michizane,  conhecido como o \"Grande Calígrafo\". Descreve a história da Ilha de Watatsumi de forma resumida."
+    "description": "Registros históricos escritos pelo famoso historiador do Shogunato, Kujou Michizane, também conhecido como um de \"Os Três Dignatários Kujou\" ou \"O Grande Calígrafo\". Descreve a história da Ilha de Watatsumi de forma resumida."
   },
   "TheSagaOfHamavaranPreface": {
     "name": "Guerras Hamawaran - Prefácio",
@@ -4005,7 +4017,7 @@
   },
   "NewChroniclesOfTheSixKitsuneV": {
     "name": "Novas Crônicas dos Seis Kitsunes (V)",
-    "description": "Uma nova adição a \"Novas Crônicas dos Seis Kitsune\" com comentários sobre eventos antigos. Se você achar que é um trabalho entediante e monótono, caro leitor, pode pular este volume. Mas, no para o autor, isso seria um desperdício enorme."
+    "description": "Uma nova adição a \"Novas Crônicas dos Seis Kitsunes\" com comentários sobre eventos antigos. Se você achar que é um trabalho entediante e monótono, caro leitor, pode pular este volume. Mas, no para o autor, isso seria um desperdício enorme."
   },
   "NorthlandBankCheck": {
     "name": "Nota do Banco do Norte",
@@ -4211,9 +4223,57 @@
     "name": "Rolinho da Sorte de Lyudochka",
     "description": "Um Rolinho especial de papel que adivinha como será sua sorte hoje. É praticamente igual a um Rolinho da Sorte normal, exceto pelo fato de que você o usou para abrir o coração de Lyudochka.\\nAgora que o Rolinho voltou para suas mãos, ele trouxe junto sua bênção sincera. Se você tiver tempo, por que não vai ao Grande Santuário Narukami para vê-la?"
   },
+  "TheMiraculousAdventuresOfTheTraveler": {
+    "name": "\"As Aventuras Fantásticas d{F#a}{M#o} Viajante\"",
+    "description": "\"Esse é um romante literário ortodoxo, e seu conteúdo em uma versão editada da vida real em Teyvat. Entretanto, o que é surpreendente é que o autor parece ser um conhecedor da Ilha Watatsumi, com muitas descrições vívidas e fidedignas\". — Srta. Hina"
+  },
+  "LightRealmSigil": {
+    "name": "Selo do Reino da Luz",
+    "description": "Uma insígnia simbolizando o reconhecimento de Tokoyo Ookami de Enkanomiya.\\nOfereça-a na estátua do Vassalo de Watatsumi para aumentar o nível da Caixa de Bokuso."
+  },
+  "LightRealmCore": {
+    "name": "Núcleo do Reino da Luz",
+    "description": "Uma pedra estranha descoberta ao explorar Enkanomiya envolta pela escuridão.\\nO Reino da Luz deu aos humanos meios adicionais para resistir ao Abismo."
+  },
+  "AFirsthandGuideToSummoningSpirits": {
+    "name": "\"Guia em Primeira Mão para Evocar Espíritos\"",
+    "description": "Um romance literário que ultimamente está muito popular em Inazuma. Contém contos mirabolantes envolvendo youkai antigos."
+  },
+  "DreamSakura": {
+    "name": "Sakura do Sonho",
+    "description": "Uma pétala de flor de Sakura que você segurou em sua mão antes de deixar o Reino da Consciência de Raiden Makoto.\\nSua existência é um mistério, e sua aparência não é em nada diferente de uma pétala da Sakura normal. Ela fica silenciosamente em sua bolsa igual a todos os outros objetos, mas você não pode mais tocá-la ou sentir seu peso ou calor. Se um objeto perde todas as propriedades que normalmente seriam atribuídas a ele, como alguém pode provar sua \"existência\" de forma confiável?\\nQuando você pensa nas inúmeras visões que essa pétala deve ter testemunhado no passado, uma suposição vem à mente: o que mantém a existência dessa pétala da Sakura deve ser a vontade de alguém. Mas quem é essa pessoa, e se ela está intencionalmente ou não mantendo essa pétala viva é desconhecido. Também não é possível decifrar se essa vontade é derivada de anseio, confiança ou gratidão.\\nTalvez, quando a \"vontade dessa pessoa\" mudar, a pétala da Sakura também desapareça.\\nTalvez seja melhor verificar de vez em quando para garantir que ela ainda existe."
+  },
+  "AphotiumOre": {
+    "name": "Minério de Medula das Profundezas",
+    "description": "Um minério especial criado por causa da Cerimônia de Oferendas de Watatsumi. Como o ambiente de Enkanomiya passou por mudanças extremas, as memórias e pensamentos espalhados por Watatsumi se condensaram em medulas que então se transformaram em minérios."
+  },
+  "TokoyoLegume": {
+    "name": "Legume de Tokoyo",
+    "description": "Uma planta especial que foi produzidas graças a Cerimônia de Oferendas de Watatsumi. Com o despertar dos Pólipos Sango, as energias elementais em Enkanomiya foram pacificadas. Esse é um cultivo fértil que se tornará em fertilizante no solo quando se decompor."
+  },
+  "HuskGem": {
+    "name": "Gema da Armadura",
+    "description": "Uma joia que caiu de uma Armadura do Vazio após você ter a derrotado. Você pode sentir uma determinação em seu interior. Talvez seja melhor dizer que sua vontade se manifestou através da armadura, ao invés de tê-la manipulado."
+  },
+  "FragmentedAccessory": {
+    "name": "Acessório Fragmentado",
+    "description": "Um pequeno acessório que você conseguiu com Kokomi. Parece ser o fragmento de outro objeto. De acordo com ela, talvez possa ser útil em algum momento."
+  },
+  "TsumisMap": {
+    "name": "Mapa de Tsumi",
+    "description": "Um mapa feito à mão por Tsumi. Há algumas marcas nele."
+  },
   "HakuenMichimitsuAmenoma": {
     "name": "Hakuen Michimitsu Amenoma",
     "description": "Uma lâmina passada de geração em geração no Clã Iwakura.\\nQuem forjou esta lâmina era muito habilidoso, e apesar dessa espada ter derrotado muitos inimigos, ela não possui poderes especiais, e ninguém da linhagem Iwakura também obteve uma Visão. Sua esgrima excelente era apenas um resultado do treinamento de sua mente, corpo e técnica.\\nEssa lâmina ficou submergida em água por um longo tempo, e acabou enferrujando completamente."
+  },
+  "DamagedStoneSlate": {
+    "name": "Placa Danificada",
+    "description": "Parece uma placa de pedra ordinária qualquer. Não se sabe se ela esconde algum segredo."
+  },
+  "MysteriousStoneSlate": {
+    "name": "Tabuleta de Pedra Misteriosa",
+    "description": "A última placa de pedra que você pegou. Ela possui ainda mais segredos sob seus segredos."
   },
   "PyroShard": {
     "name": "Fragmento Pyro",
@@ -5153,7 +5213,7 @@
   },
   "WanminRestaurantsBoiledFish": {
     "name": "Peixe Fervido do Restaurante de Wanmin",
-    "description": "Especialidade de Xangling. Este é o prato exclusivo do Restaurante Wanmin, combinando a paixão sincera de Xiangling pela culinária. Qualquer pessoa que goste, ganhará uma apreciação pura por comida gourmet em meio à mistura saudável e viciante de sabores."
+    "description": "Especialidade de Xiangling. Este é o prato exclusivo do Restaurante Wanmin, combinando a paixão sincera de Xiangling pela culinária. Qualquer pessoa que goste, ganhará uma apreciação pura por comida gourmet em meio à mistura saudável e viciante de sabores."
   },
   "AllDelicacyParcels": {
     "name": "Iguarias do Interior",
@@ -5593,7 +5653,7 @@
   },
   "StormcrestPie": {
     "name": "Torta da Tempestade",
-    "description": "A especialidade de Eula. É difícil dizer se a forma de meia-lua é para desrespeitar a tradição ou expressar sua filosofia de \"olho por olho, dente por dente\". Um sabor salgado, fresco e defumado emana sob a crosta externa dourada, dificilmente qualquer outra pessoa em Mondstadt sabe fazer essa iguaria da mesma forma... É melhor não dizer a ela isso, no entanto, para que ela não \"se vingue\" disso."
+    "description": "A especialidade de Eula. É difícil dizer se a forma de meia-lua é para desrespeitar a tradição ou expressar sua filosofia de \"olho por olho, dente por dente\". Um sabor salgado, fresco e defumado emana sob a crosta externa dourada, dificilmente qualquer outra pessoa em Mondstadt saberia fazer essa iguaria da mesma forma... no entanto, é melhor não dizer isso a ela, para que ela não \"se vingue\" disso."
   },
   "SuspiciousChickenTofuPudding": {
     "name": "Caldo de Tofu com Galinha Estranho",
@@ -5716,15 +5776,15 @@
     "description": "Um espeto com vários pedaços. O controle de temperatura altamente refinado permitiu que os óleos escaldantes fosse liberados. Os muitos temperos acentuam o sabor dos vários ingredientes. Se houvesse um pouco menos deles, ficaria muito sem graça; se houvesse um pouco mais, ficaria muito intenso. Esse equilíbrio apurado revela o lado criativo do chef."
   },
   "SuspiciousMisoSoup": {
-    "name": "Sopa Miso Suspeita",
+    "name": "Sopa de Miso Suspeita",
     "description": "Um prato de sopa simples e sem adornos. As Ervas Marinhas murchas, os pedacinhos amassados de tofu e o sabor excessivamente espesso são um perigo para o humor de uma pessoa se consumidos logo de manhã."
   },
   "MisoSoup": {
-    "name": "Sopa Miso",
+    "name": "Sopa de Miso",
     "description": "Um prato de sopa simples e sem adornos. Os ingredientes utilizados são muito comuns e fáceis de preparar, mas esta pequena tigela de sopa tem o poder de reduzir o cansaço da sua jornada, mesmo que você viaje a pé."
   },
   "DeliciousMisoSoup": {
-    "name": "Sopa Miso Deliciosa",
+    "name": "Sopa de Misso Deliciosa",
     "description": "Um prato de sopa simples e sem adornos. A sopa saborosa exala uma fragrância de fermento. Uma colherada com arroz complementa qualquer refeição."
   },
   "SuspiciousImportedPoultry": {
@@ -6052,15 +6112,15 @@
     "description": "Vegetais em conserva. O processo de fermentação adicionou naturalmente um toque de sabor doce ao resultado. O sabor final na boca é o maior destaque, e combina bem com arroz e ao tomar vinho para relaxar. De fato trata-se de um tesouro!"
   },
   "SuspiciousSakuraShrimpCrackers": {
-    "name": "Biscoitos Sakura Mochi Estranhos",
+    "name": "Biscoitos de Sakura e Camarão Estranhos",
     "description": "Biscoitos crocantes e quebradiços. O resultado final tem cores um tanto monótonas, mas o seu formato circular realmente indica que são biscoitos \"senbei\"... Mas por que ao serem comidos só possuem o sabor de camarão?"
   },
   "SakuraShrimpCrackers": {
-    "name": "Biscoitos Sakura Mochi",
+    "name": "Biscoitos de Sakura e Camarão",
     "description": "Biscoitos crocantes e quebradiços. As batatas são moídas em farinha e adicionadas ao Camarão e Pétalas da Flor de Sakura antes de serem assadas em um forno. Possui um ótimo sabor para um lanche e é amado por pessoas de todas as idades, traços que o tornaram uma escolha popular como um presente."
   },
   "DeliciousSakuraShrimpCrackers": {
-    "name": "Biscoitos Sakura Mochi Deliciosos",
+    "name": "Biscoitos de Sakura e Camarão Deliciosos",
     "description": "Biscoitos crocantes e quebradiços. Conserva perfeitamente a cor adorável das Pétalas da Flor de Sakura e a forma elegante dos camarões. Enquanto ainda não tiver sido colocado na boca para provar, seu aroma fresco enche seu nariz. Após entrar na boca, o gosto crocante se espalha por todo lugar enquanto se mastiga, e cada mordida parecem como se as flores e o mar se misturassem belamente."
   },
   "WayOfTheStrong": {
@@ -6081,7 +6141,7 @@
   },
   "DeliciousBountifulYear": {
     "name": "Abundância Anual Delicioso",
-    "description": "Luxuoso e requintado peixe cru. O peixe cru empilhado é fatiado tão fino quanto as asas de uma cigarra, e seu sabor é tão leve quanto a névoa, suas linhas padronizadas opala-branco, como a neve beijando a terra. Mal se pode esperar para cair de boca - os macios e suaves sabores da carne e a miríades de condimentos coalescem na língua, para o deleite de todos. Verdadeiramente, esta é uma experiência de sabor insuperável!"
+    "description": "Luxuoso e requintado peixe cru. O peixe cru empilhado é fatiado tão fino quanto as asas de uma cigarra, e seu sabor é tão leve quanto a névoa, suas linhas padronizadas opala-branco, como a neve beijando a terra. Mal se pode esperar para cair de boca — os macios e suaves sabores da carne e a miríades de condimentos coalescem na língua, para o deleite de todos. Verdadeiramente, esta é uma experiência de sabor insuperável!"
   },
   "SuspiciousDragonBeardNoodles": {
     "name": "Macarrão Barba de Dragão Estranho",
@@ -6102,6 +6162,34 @@
   "CloudShroudedJade": {
     "name": "Nuvens Sobre Jade",
     "description": "Especialidade de Yunjin. Este lanche doce e pegajoso de alguma forma não afetará sua garganta de forma negativa, e é por isso que é o favorito de Yunjin. O gosto residual é elegante, não é algo de que alguém se cansasse rapidamente. Pensando bem... Isto é um pouco mais decente do que ela normalmente faria para si mesma — mas quem é você para questionar a gentileza dela?"
+  },
+  "SuspiciousSangayaki": {
+    "name": "Sangayaki Estranho",
+    "description": "Um prato simples e humilde de pescadores. O excesso de sal e o cheiro de peixe são como uma tempestade para o seu olfato. Mantenha suas mãos firmes na próxima vez que cozinhar..."
+  },
+  "Sangayaki": {
+    "name": "Sangayaki",
+    "description": "Um prato simples e humilde de pescadores. É feito com peixe fresco, sem pele e cortado em fatias finas. Depois é picado junto com Flor Crânio de Dragão, misturado com miso e sal para formar uma pasta, e finalmente é grelhado. Você consegue sentir o delicioso cheiro mesmo antes de prová-lo. Mesmo depois de comer três porções seguidas, você ainda quer continuar comendo!"
+  },
+  "DeliciousSangayaki": {
+    "name": "Sangayaki Delicioso",
+    "description": "Um prato simples e humilde de pescadores. Muito nutritivo e apetitoso. O exterior ligeiramente tostado e dourado envolve o interior tenro, proporcionando dois prazeres ao mesmo tempo! A pasta de peixe já era deliciosa crua, mas depois de grelhada em carvão fica simplesmente divina."
+  },
+  "SuspiciousUdonNoodles": {
+    "name": "Macarrão Udon Estranho",
+    "description": "Macarrão com muita elasticidade. O macarrão e o caldo têm um sabor insípido e aborrecido. Parece que da próxima vez você deveria prestar mais atenção aos temperos."
+  },
+  "UdonNoodles": {
+    "name": "Macarrão Udon",
+    "description": "Macarrão com muita elasticidade. Depois de muito amassar, o resultado é um macarrão macio e sedoso. Ao contrário de ramen, que usa sabores intensos, o macarrão udon usa sabores suaves para apaziguar o espírito das pessoas de Inazuma."
+  },
+  "DeliciousUdonNoodles": {
+    "name": "Macarrão Udon Delicioso",
+    "description": "Macarrão com muita elasticidade. O udon branco como a neve, macio mas elástico, e o caldo de sabor requintado fazem uma combinação simples, mas reconfortante. O leve sabor do trigo desliza por sua garganta junto com o macarrão, deixando um palato quente duradouro."
+  },
+  "FukuuchiUdon": {
+    "name": "Udon da Fortuna",
+    "description": "A especialidade de Yae Miko. O Tofu Frito do meio é especialmente feito pela solene Madame Kitsune. Diz-se que se você comer tudo de uma vez com um coração sincero, será abençoad{F#a}{M#o} pela proteção da Grande Kitsune. Pode dizer adeus ao azar, porque a sorte virá até você!"
   },
   "RecipeItem": {
     "name": "Ingredientes",
@@ -6416,8 +6504,8 @@
     "description": "Uma receita passo a passo detalhada para fazer Espeto de Três Sabores."
   },
   "RecipeMisoSoup": {
-    "name": "Receita: Sopa Miso",
-    "description": "Uma receita passo a passo detalhada para fazer Sopa Miso."
+    "name": "Receita: Sopa de Miso",
+    "description": "Uma receita passo a passo detalhada para fazer Sopa de Miso."
   },
   "RecipeImportedPoultry": {
     "name": "Receita: Carne de Ave Cruzada",
@@ -6516,8 +6604,8 @@
     "description": "Uma receita passo a passo detalhada para fazer Cinco Tesouros em Conserva."
   },
   "RecipeSakuraShrimpCrackers": {
-    "name": "Receita: Biscoitos Sakura Mochi",
-    "description": "Uma receita passo a passo detalhada para fazer Biscoitos Sakura Mochi."
+    "name": "Receita: Biscoitos de Sakura e Camarão",
+    "description": "Uma receita passo a passo detalhada para fazer Biscoitos de Sakura e Camarão."
   },
   "RecipeBountifulYear": {
     "name": "Receita: Abundância Anual",
@@ -6526,6 +6614,14 @@
   "RecipeDragonBeardNoodles": {
     "name": "Receita: Macarrão Barba de Dragão",
     "description": "Uma receita passo a passo detalhada para fazer Macarrão Barba de Dragão."
+  },
+  "RecipeSangayaki": {
+    "name": "Receita: Sangayaki",
+    "description": "Uma receita passo a passo detalhada para fazer Sangayaki."
+  },
+  "RecipeUdonNoodles": {
+    "name": "Receita: Macarrão Udon",
+    "description": "Uma receita passo a passo detalhada para fazer Macarrão Udon."
   },
   "CraftedItems": {
     "name": "Produtos Combinados",
@@ -7023,6 +7119,18 @@
     "name": "Barbatana Falsa do Dragão Herdeiro das Profundezas",
     "description": "Um pedaço de tecido biológico que você encontrou após derrotar os Dragartos das Profundezas.\\nEmbora pareça uma barbatana de algum tipo, na verdade não tem nenhuma função.\\nO povo do Reino de Byakuya investigou profundamente os Dragartos das Profundezas. Sua habilidade mais distinta foi a capacidade de escolher quais características desejava transmitir à sua prole. Por causa do seu grande ódio pela humanidade, estes talvez percam qualquer acuidade visual no momento em que atingirem a maturidade. Ao mesmo tempo, eles também desenvolveram um certo grau de polimorfismo elemental para fins de combate."
   },
+  "MudraOfTheMaleficGeneral": {
+    "name": "Mudra da Shogun Maléfica",
+    "description": "Uma parte do corpo de uma marionete obtida no Plano da Eutimia. O gesto aqui simboliza o conceito de \"um vê e um faz\".\\nMesmo tendo \"ela\" se tornado a Deusa do Desastre, ainda pode utilizar tais gestos transcendentais, e sua espada pode brilhar assim como seus olhos podem ver.\\nAinda assim, os incontáveis desastres se prolongaram por muito tempo, e a carcaça da feroz general teve que abraçar uma nova primavera."
+  },
+  "TearsOfTheCalamitousGod": {
+    "name": "Lágrima da Deusa do Desastre",
+    "description": "Uma articulação de marionete obtida do Plano da Eutimia. Sua aparência é semelhante ao formato do Olho do Julgamento Tempestuoso.\\nComo eles são capazes de acabar com a maldição com um simples olhar, parece ser nada além do que natural culpar os infortúnios da vida na Deusa do Desastre. Porém, se você pensar bem nisso, se a sua vontade for forte o suficiente, e se suas convicções forem firmes e definidas... você ainda continuaria pensando nisso?\\nAs catástrofes continuam por muito tempo. Até mesmo um olhar maléfico deve se acabar em lágrimas."
+  },
+  "TheMeaningOfAeons": {
+    "name": "Significado de Éons",
+    "description": "Um pequeno acessório de cabeça obtido uma vez que a poeira abaixou no Plano da Eutimia.\\nApenas um único pensamento pode acabar com a calamidade, e sempre haverá pensamentos que transcendem o tempo.\\nEm meio a tudo isso, é possível se perguntar se a verdadeira mensagem de Makoto foi transmitida ou não."
+  },
   "TileOfDecarabiansTower": {
     "name": "Fragmento de Azulejo de Decarabian",
     "description": "Material de Ascensão de Armas.\\nO local atualmente conhecido como Toca de Stormterror já foi a capital construída por Decarabian, o Arconte Anemo. Desde que esse sonho próspero foi criado pelo seu poder, os pedaços partidos deixados para trás quando o sonho foi destruído ainda possuem grandes poderes."
@@ -7153,19 +7261,19 @@
   },
   "MaskOfTheWickedLieutenant": {
     "name": "Máscara do Tenente Perverso",
-    "description": "Material de Ascensão de Armas.\\nOs contos populares falam sobre um oni chamado Torachiyo. Torachiyo era um guerreiro muito habilidoso. Diziam que ele podia dançar entre mil espadas, rasgando seu juunihitoe como pétalas de violeta, e ainda assim não recebia um único golpe. No entanto, esse oni traiu a Shogun e se revoltou. Perdeu um braço e um chifre em uma luta antes de fugir e acabou morrendo em um ataque de loucura furiosa.\\nDizem que os teimosos onis muitas vezes guardam medo e angústia em seus corações. Que fantasiam sobre a eternidade, mas temem a realidade. Que podem ser consumidos pelo terror, ou que a raiva é sua justa recompensa. Esta máscara retrata Torachiyo, com as presas à mostra."
+    "description": "Material de Ascensão de Armas.\\nOs contos populares falam sobre uma oni chamada Torachiyo. Torachiyo era uma guerreira muito habilidosa. Diziam que ela podia dançar entre mil espadas, rasgando seu juunihitoe como pétalas de violeta, e ainda assim não recebia um único golpe. No entanto, essa oni traiu a Shogun e se revoltou. Perdeu um braço e um chifre em uma luta antes de fugir e acabou morrendo em um ataque de loucura furiosa.\\nDizem que os teimosos onis muitas vezes guardam medo e angústia em seus corações. Que fantasiam sobre a eternidade, mas temem a realidade. Que podem ser consumidos pelo terror, ou que a raiva é sua justa recompensa. Esta máscara retrata Torachiyo, com as presas à mostra."
   },
   "MaskOfTheTigersBite": {
     "name": "Máscara da Mordida do Tigre",
-    "description": "Material de Ascensão de Armas.\\n\"Sumirezome Sangetsu Kogetsukan\" representa Oni Torachiyo quebrando a naginata da Shogun com uma única mordida, ganhando a vantagem por um tempo. Dessa forma, máscaras baseadas nele possuem presas feitas cuidadosamente.\\nNo desfecho desse conto, o Oni ferido fugiu para a floresta, temendo revelar-se para a fria luz do luar. Pode-se dizer que vento que sussurra pelos becos e vales representa os seus choros silenciosos de agonia, e por isso existe uma expressão poética sazonal em Inazuma: \"O Vento de Torachiyo\"."
+    "description": "Material de Ascensão de Armas.\\n\"Sumirezome Sangetsu Kogetsukan\" representa Oni Torachiyo quebrando a naginata da Shogun com uma única mordida, ganhando a vantagem por um tempo. Dessa forma, máscaras baseadas nela possuem presas feitas cuidadosamente.\\nNo desfecho desse conto, a Oni ferida fugiu para a floresta, temendo revelar-se para a fria luz do luar. Pode-se dizer que vento que sussurra pelos becos e vales representa os seus choros silenciosos de agonia, e por isso existe uma expressão poética sazonal em Inazuma: \"O Vento de Torachiyo\"."
   },
   "MaskOfTheOneHorned": {
     "name": "Máscara Daquele com Um Chifre",
-    "description": "Material de Ascensão de Armas.\\nNas antigas canções das babás onis, Torachiyo era um jovem elegante, de corpo forte e rosto bonito. Ele havia sido um querido tenente da Shogun, e a seguiu até os sombrios reinos abissais para combater os profanados, aumentando o renome dos onis, cujos descendentes diminuíam a cada dia.\\nNinguém mais canta essas canções, mas a máscara de um oni com chifres, mesmo em um formato diferente, ainda possui um poder além do normal."
+    "description": "Material de Ascensão de Armas.\\nNas antigas canções das babás onis, Torachiyo era uma jovem elegante, de corpo forte e rosto bonito. Ela havia sido uma querida tenente da Shogun, e a seguiu até os sombrios reinos abissais para combater os profanados, aumentando o renome dos onis, cujos descendentes diminuíam a cada dia.\\nNinguém mais canta essas canções, mas a máscara de uma oni com chifres, mesmo em um formato diferente, ainda possui um poder além do normal."
   },
   "MaskOfTheKijin": {
     "name": "Máscara de Kijin",
-    "description": "Material de Ascensão de Arma.\\nChiyo, uma guerreira da tribo Oni com o emblema Mitsudomoe Electro brasonado em suas costas. No passado, ela foi engolida inteira por uma besta fora desse mundo que tinha um corpo de tigre e uma cauda de serpente, enquanto lutava contra as forças da escuridão. No final, ela rasgou as entranhas da criatura de dentro e se libertou.\\nEsta é a origem da expressão \"Chiyo, a Dentada de Tigre\" que, após vários anos, foi mudada para \"Torachiyo\".\\nMas dentro da barriga da besta, ela foi manchada por um pecado profundo e viu seus companheiros destruídos em pedaços por aqueles dentes ensanguentados. Impregnada na imensa escuridão, ela usaria sua espada em Narukami Ogosho Toda-Poderosa. Seu braço-espada e chifre seriam divididos, e ela escaparia da cidade para a floresta como uma besta ferida. Ali, dizem que ela foi levada por um monstro desconhecido e assassinada por um Tengu, por um Shiyuumatsu-Ban ou talvez por um herdeiro de Iwakura que treinava nas profundezas da montanha, pois sua bela face estava contorcida por ódio e agonia dos seus ferimentos. Ou talvez ela terá conhecido um boneco com uma máscara de oni e uma espada perto do corpo da serpente gigante, e aí pôs fim à sua viagem da vida.\\nPoucos daqueles que lutaram contra o abismo nesses dias tiveram finais felizes. Aqueles que mataram monstros e depois se tornaram neles eram uma minoria. A barreira entre mundos tornou-se frágil e a corrupção talvez não flua em apenas uma direção."
+    "description": "Material de Ascensão de Arma.\\nChiyo, uma guerreira da tribo Oni com o emblema Mitsudomoe Electro brasonado em suas costas. No passado, ela foi engolida inteira por uma besta fora desse mundo que tinha um corpo de tigre e uma cauda de serpente, enquanto lutava contra as forças da escuridão. No final, ela rasgou as entranhas da criatura de dentro e se libertou.\\nEsta é a origem da expressão \"Chiyo, a Dentada de Tigre\" que, após vários anos, foi mudada para \"Torachiyo\".\\nMas dentro da barriga da besta, ela foi manchada por um pecado profundo e viu seus companheiros destruídos em pedaços por aqueles dentes ensanguentados. Impregnada na imensa escuridão, ela usou sua espada em Narukami Ogosho Toda-Poderosa. Seu braço-espada e chifre foram divididos, e ela escapou da cidade para a floresta como uma besta ferida. Ali, dizem que ela foi levada por um monstro desconhecido e assassinada por um Tengu, por um Shiyuumatsu-Ban ou talvez por um herdeiro de Iwakura que treinava nas profundezas da montanha, pois sua bela face estava contorcida por ódio e agonia dos seus ferimentos. Ou talvez ela conheceu um boneco com uma máscara de oni e uma espada perto do corpo da serpente gigante, e aí pôs fim à sua viagem da vida.\\nPoucos daqueles que lutaram contra o abismo nesses dias tiveram finais felizes. Aqueles que mataram monstros e depois se tornaram neles eram uma minoria. A barreira entre mundos tornou-se frágil e a corrupção talvez não flua em apenas uma direção."
   },
   "StarterSupplyBundle": {
     "name": "Pacote de Suprimentos de Iniciante",
@@ -7594,6 +7702,10 @@
   "Alkahest": {
     "name": "Alcaeste",
     "description": "Material Especializado de Refinamento para a Haste de Cinábrio.\\nUma substância prateada brilhante com uma luz estranha que é um veneno corrosivo para as coisas desse mundo. Mas ainda assim, possui a capacidade de sublimar a matéria..."
+  },
+  "OintmentOfSight": {
+    "name": "Bálsamo da Visibilidade",
+    "description": "Material de refinamento para \"Olho do Juramento\".\\nO óleo especial do Unagi do Mar Profundo foi utilizado no passado para conservar os artefatos sagrados de Enkanomiya, e o seu processo de fabricação é cuidadoso para que o olho seja muito brilhante por eras."
   },
   "FalconsDance": {
     "name": "Dança do Falcão",
@@ -8207,6 +8319,18 @@
     "name": "Passe Batalha — Multicolorido",
     "description": "Estilo de Cartão de Visita.\\nAs cores luxuosas passam, e todas as coisas são renovadas."
   },
+  "CelebrationBingeVessel": {
+    "name": "Celebração: Embriaguez",
+    "description": "Estilo de Cartão de Visita.\\nHá muitas histórias aqui, mas nenhum álcool. Por isso Paimon também pode beber."
+  },
+  "YaeMikoKitsuneDreaming": {
+    "name": "Yae Miko: Kitsune Onírica",
+    "description": "Estilo de Cartão de Visita.\\nOnde pode ser encontrada a forma de raposa de Yae Miko? Em seus sonhos."
+  },
+  "TravelNotesAwakening": {
+    "name": "Passe de Batalha: Despertar",
+    "description": "Estilo de Cartão de Visita.\\nOs três reinos tremem, céu e terra despertam. Os Pólipos Sango também acordam novamente de seu sono eterno."
+  },
   "AnemoculusResonanceStone": {
     "name": "Pedra de Ressonância de Anemoculus",
     "description": "Pode usar em Mondstadt para buscar 'Anemoculus Perdidos' nos arredores.\\nEssa pedra tem características similares às Estátuas Anemo das Estátuas dos Sete e gera ressonância com Anemoculus.\\nAs Pedras de Ressonância de Oculus são imitações brutas das Estátuas dos Sete construídas pelos antigos. Mas é exatamente devido a essa rudeza que desejam a força de oculus elemental e oferecendo uma boa oportunidade a devotos e aventureiros para encontrar oculus."
@@ -8367,13 +8491,17 @@
     "name": "Barrilzinho de Fogos de Artifício",
     "description": "Um dispositivo especial criado pelo artesão Pengyi. Ele vem com funções que permitem a fundição e lançamento automático de fogos de artifício. Nas mãos de alguém com criatividade, com certeza será de grande utilidade na criação de espetáculos únicos e radiantes de fogos de artifício."
   },
+  "BokusoBox": {
+    "name": "Caixa de Bokuso",
+    "description": "Use isso para eliminar a Escuridão de uma certa área de Enkanomiya.\\nO nome \"Bokuso\" é formado de \"boku\" que significa \"aproximar o que é bom\" e \"so\", que significa \"afastar o que está sujo\"."
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Instruções: Pedra de Ressonância de Anemoculus",
-    "description": "Uma instrução detalhada de passo a passo para fazer uma Pedra de Ressonância Anemoculus. Depois de controlá-la bem, poderá fazer uma ferramente que permitirá procurar Anemoculus."
+    "description": "Uma instrução detalhada de passo a passo para fazer uma Pedra de Ressonância Anemoculus. Depois de domina-la bem, poderá fazer uma ferramenta que permitirá procurar Anemoculus."
   },
   "InstructionsGeoculusResonanceStone": {
     "name": "Instruções: Pedra de Ressonância de Geoculus",
-    "description": "Uma instrução detalhada de passo a passo para fazer uma Pedra de Ressonância Geoculus. Depois de controlá-la bem, poderá fazer uma ferramente que permitirá procurar Geoculus."
+    "description": "Uma instrução detalhada de passo a passo para fazer uma Pedra de Ressonância Geoculus. Depois de domina-la bem, poderá fazer uma ferramenta que permitirá procurar Geoculus."
   },
   "DiagramGeoTreasureCompass": {
     "name": "Diagrama: Bússola de Tesouros Geo",
@@ -8417,7 +8545,7 @@
   },
   "SaimonHeirloomBladeDiagram": {
     "name": "Diagrama de Espadas da Família Saimon",
-    "description": "O Clã Saimon Lâmina possuía este diagrama de como fazer a Lâmina Amenoma Kageuta (Espada). Você pode usá-lo para dominar a arte de fazer esta arma."
+    "description": "O Clã Saimon possuía este diagrama de como fazer a Lâmina Amenoma Kageuta (Espada). Você pode usá-lo para dominar a arte de fazer esta arma."
   },
   "DiagramKatsuragikiriNagamasa": {
     "name": "Diagrama: Espada Grande de Katsuragi",
@@ -8437,7 +8565,7 @@
   },
   "InstructionsElectroculusResonanceStone": {
     "name": "Instruções: Pedra de Ressonância de Electroculus",
-    "description": "Uma instrução detalhada passo a passo para fazer uma Pedra de Ressonância de Electroculus. Depois de controlá-la bem, poderá fazer uma ferramente que permitirá procurar Electroculus."
+    "description": "Uma instrução detalhada passo a passo para fazer uma Pedra de Ressonância de Electroculus. Depois de domina-la bem, poderá fazer uma ferramenta que permitirá procurar Electroculus."
   },
   "DiagramElectroTreasureCompass": {
     "name": "Diagrama: Bússola de Tesouros Electro",
@@ -8527,6 +8655,22 @@
     "name": "Esplendor Opulente",
     "description": "Vestuário formal de Keqing. Em meio à bela aurora do Ritual de Lanternas, os fios tecidos por dias de trabalho duro se entrelaçam em uma aparência suave, porém magnífica."
   },
+  "GunnhildrsLegacy": {
+    "name": "Legado de Gunnhildr",
+    "description": "Vestuário de Jean. Esse clássico vestuário cerimonial de cavaleiros é adequado para todas as ocasiões."
+  },
+  "Outrider": {
+    "name": "100% Aventureira",
+    "description": "Vestuário de Amber. É uma versão mais formal do uniforme de Aventureira!"
+  },
+  "PactOfStarsAndMoon": {
+    "name": "Pacto das Estrelas e da Lua",
+    "description": "Vestuário de Mona. Um vestuário feito especificamente para englobar o conceito de \"Momento Destinado\" das Previsões Astrológicas e como agradecimento pelo desconto de 30% no planetário."
+  },
+  "ToTheChurchsFreeSpirit": {
+    "name": "Aos Libertos da Igreja",
+    "description": "Vestuário de Rosaria. Parece ter sido confeccionado especialmente para ela pela Igreja."
+  },
   "AdventurerCamp": {
     "name": "Acampamento Temporário do Aventureiro",
     "description": "Um diagrama que descreve passo a passo detalhadamente como instalar o \"Acampamento Temporário do Aventureiro\".\\nUm acampamento feito apressadamente por aventureiros no meio da natureza.\\nQuando os aventureiros fazem acampamentos, eles devem ter a certeza de colocar uma cerca para se defender dos animais selvagens. Mas como a área raramente tem madeira suficiente para criar uma proteção completa, muitas vezes eles devem vigiar em turnos e soar o alarme para evitar quaisquer deslizes e contratempos.\\nDepois de usar, você pode entrar na interface de colocação para ver."
@@ -8565,7 +8709,7 @@
   },
   "BookLoversStudy": {
     "name": "Estudo do Amante de Livros",
-    "description": "Um diagrama que descreve passo a passo detalhadamente como instalar \"Estudo do Amante de Livros\".\\nUma bancada de estudo em estilo Liyue cheia de livros. Pode-se ganhar muito passando meio dia aqui, em paz e tranquilidade.\\nDizem que o estilo de estudo comumente visto hoje em dia é em grande parte derivado da mansão da Guilda de Comerciantes de Feiyun, que foi aperfeiçoada por seu segundo jovem mestre para melhorar muito a eficiência com a qual se pode estudar e escrever.\\nDepois de usar, você pode entrar na interface de colocação para ver."
+    "description": "Um diagrama que descreve passo a passo detalhadamente como instalar \"Estudo do Amante de Livros\".\\nUma bancada de estudo em estilo Liyue cheia de livros. Pode-se ganhar muito passando meio-dia aqui, em paz e tranquilidade.\\nDizem que o estilo de estudo comumente visto hoje em dia é em grande parte derivado da mansão da Guilda de Comerciantes de Feiyun, que foi aperfeiçoada por seu segundo jovem mestre para melhorar muito a eficiência com a qual se pode estudar e escrever.\\nDepois de usar, você pode entrar na interface de colocação para ver."
   },
   "FullyFurnishedMondstadtBedroom": {
     "name": "Quarto de Mondstadt com Móveis Excelentes",
@@ -8713,7 +8857,7 @@
   },
   "WakefulSpring": {
     "name": "Fonte Termal Revitalizante",
-    "description": "Um diagrama detalhado passo a passo para fazer uma Fonte Termal Revitalizante.\\nUma fonte termal ao ar livre com recursos completos. Os minerais e elementos presentes aqui podem não ser iguais aos Banhos de Aisa, mas as fontes termais deste tipo ganham em termos de qualidade para comparações de preços e a atmosfera amigável e casual.\\nSó necessita de meia hora repousando aqui e todo o cansaço que você acumulou no trabalho se dissipará logo, substituído por um vigor renovado e, se houver tempo, você pode ainda encostar-se em uma das pedras brancas que há por aqui e tomar um chá enquanto bate um papo com seus amigos.\\nClaro, mantenha a etiqueta adequada quando entrar na fonte: aproveitar as águas termais com os amigos é bom, mas não fique muito tempo. Se você passar muito tempo a tagarelar com o pessoal lá, como a Rainha do Festival de Verão faz, pode ficar tont{M#o}{F#a}.\\nApós usar este item, você pode visualizá-lo na Interface de Colocação.\\nCompanheiro que prefere este conjunto: Yoimiya, Gorou"
+    "description": "Um diagrama detalhado passo a passo para fazer uma Fonte Termal Revitalizante.\\nUma fonte termal ao ar livre com recursos completos. Os minerais e elementos presentes aqui podem não ser iguais aos Banhos de Aisa, mas as fontes termais deste tipo ganham em termos de qualidade para comparações de preços e a atmosfera amigável e casual.\\nSó necessita de meia hora repousando aqui e todo o cansaço que você acumulou no trabalho se dissipará logo, substituído por um vigor renovado e, se houver tempo, você pode ainda encostar-se em uma das pedras brancas que há por aqui e tomar um chá enquanto bate um papo com seus amigos.\\nClaro, mantenha a etiqueta adequada quando entrar na fonte: aproveitar as águas termais com os amigos é bom, mas não fique muito tempo. Se você passar muito tempo a tagarelar com o pessoal lá, como a Rainha do Festival de Verão faz, pode ficar tont{M#o}{F#a}.\\nApós usar este item, você pode visualizá-lo na Interface de Colocação.\\nCompanheiro que prefere este conjunto: Yoimiya, Gorou, Yae Miko"
   },
   "RuralConcealment": {
     "name": "Dissimulação Rural",
@@ -8721,7 +8865,7 @@
   },
   "AncientBranchShrine": {
     "name": "Ala Antiga do Santuário",
-    "description": "Um diagrama detalhado passo a passo para fazer Ala Antiga do Santuário.\\nO projeto arquitetônico, a pintura vermelha brilhante e o layout geral do belo e sereno santuário seguem o mesmo estilo do Grande Santuário Narukami. Ele serve como um local de meditação para os mortais, mas para a Toda-Poderosa Narukami Ogosho, a visão dele foi o suficiente para formar uma vaga, mas vívida memória de uma época passada...\\nDepois de usar, você pode entrar na interface de colocação para vê-la.\\nCompanheiro que prefere este conjunto: Shogun Raiden"
+    "description": "Um diagrama detalhado passo a passo para fazer Ala Antiga do Santuário.\\nO projeto arquitetônico, a pintura vermelha brilhante e o layout geral do belo e sereno santuário seguem o mesmo estilo do Grande Santuário Narukami. Ele serve como um local de meditação para os mortais, mas para a Toda-Poderosa Narukami Ogosho, a visão dele foi o suficiente para formar uma vaga, mas vívida memória de uma época passada...\\nDepois de usar, você pode entrar na interface de colocação para vê-la.\\nCompanheiro que prefere este conjunto: Shogun Raiden, Yae Miko"
   },
   "MilitaryExerciseGrounds": {
     "name": "Campo de Treinamento Militar",
@@ -9619,6 +9763,18 @@
     "name": "Armazém da Mansão: Reservas",
     "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Armazém da Mansão: Reservas\".\\nDepois de usar, você pode entrar na interface de produção para vê-la."
   },
+  "InazumanHomeWatatsumiReminiscence": {
+    "name": "Residência de Inazuma: Reminiscências de Watatsumi",
+    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Residência de Inazuma: Reminiscências de Watatsumi\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la."
+  },
+  "InazumanHomeHouseOfCoral": {
+    "name": "Residência de Inazuma: Casa dos Corais",
+    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Residência de Inazuma: Casa dos Corais\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la."
+  },
+  "InazumanHomeStormhouse": {
+    "name": "Residência de Inazuma: Casa Tempestuosa",
+    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Residência de Inazuma: Casa Tempestuosa\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la."
+  },
   "BirdAndBlossomDesignFountain": {
     "name": "Fonte com Pássaros e Flores",
     "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Fonte com Pássaros e Flores\".\\nDepois de usar, você pode entrar na interface de colocação para ver."
@@ -9670,6 +9826,10 @@
   "OfFieldsGreenClearSpringFountain": {
     "name": "Campos Verdejantes: Fonte Primaveril Translúcida",
     "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar Campos Verdejantes: Fonte Primaveril Translúcida.\\nDepois de usar, você pode entrar na interface de colocação para vê-la."
+  },
+  "SubSpaceCabochonInSoaringFlight": {
+    "name": "Cabochão sub-espacial: Voo Pleno",
+    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Cabochão sub-espacial: Voo Pleno\".\\nDepois de usar, você pode entrar na interface de colocação para vê-lo."
   },
   "AdeptusGate": {
     "name": "Portão do Adeptus",
@@ -9776,8 +9936,8 @@
     "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar \"Parede do Pavilhão da Mansão: Paliçada da Velha Cidade\".\\nDepois de usar, você pode entrar na interface de colocação para vê-la."
   },
   "HotSpringFoldingScreenModeration": {
-    "name": "Tela de Fonte Termal: Comfortável",
-    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar Tela de Fonte Termal: Comfortável.\\nDepois de usar, você pode entrar na interface de produção para vê-la."
+    "name": "Tela de Fonte Termal: Confortável",
+    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar Tela de Fonte Termal: Confortável.\\nDepois de usar, você pode entrar na interface de produção para vê-la."
   },
   "HotSpringOuterWallNoVaulting": {
     "name": "Parede Externa da Fonte Termal \"Ninguém Subirá\"",
@@ -9913,7 +10073,7 @@
   },
   "OtogiTaninWoodBarrel": {
     "name": "Barril de Madeira Otogi: \"Prove e Veja\"",
-    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar Barril de Madeira Otogi: Bebe e Verás.\\nDepois de usar, você pode entrar na interface de produção para vê-lo."
+    "description": "Um diagrama que descreve passo a passo detalhadamente como fabricar Barril de Madeira Otogi: Prove e Veja.\\nDepois de usar, você pode entrar na interface de produção para vê-lo."
   },
   "KokutanThickWalledClayWaterTank": {
     "name": "Ânfora de Cerâmica Grossa \"Rocha Corajosa\"",

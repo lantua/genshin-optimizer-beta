@@ -435,6 +435,10 @@
     "name": "Arataki Itto",
     "description": "Ketua Geng Arataki yang Pertama dan yang Terhebat, dan terkenal di Hanamizaka, Kota Inazuma ... Apa katamu? Belum pernah dengar? Mau cari ribut ya?"
   },
+  "YaeMiko": {
+    "name": "Yae Miko",
+    "description": "Lady Guuji dari Kuil Agung Narukami juga menjabat sebagai pemimpin redaksi Yae Publishing House. Kecerdasan dan kelicikan yang tidak dapat dibayangkan tersembunyi di balik penampilannya yang cantik."
+  },
   "Aloy": {
     "name": "Aloy",
     "description": "Dulunya dikucilkan oleh sukunya, kini menjadi pemburu dengan kemampuan tak tertandingi. Selalu siap membela yang benar dengan busurnya."
@@ -622,6 +626,10 @@
   "AratakiIttosStellaFortuna": {
     "name": "Arataki Itto's Stella Fortuna",
     "description": "Material aktivasi untuk konstelasi Arataki Itto"
+  },
+  "YaeMikosStellaFortuna": {
+    "name": "Yae Miko's Stella Fortuna",
+    "description": "Material aktivasi untuk konstelasi Yae Miko"
   },
   "AloysStellaFortuna": {
     "name": "Aloy's Stella Fortuna",
@@ -1495,6 +1503,10 @@
     "name": "Tentang Gunung dan Laut",
     "description": "Catatan milik Leonard, petualang yang hidup zaman dahulu kala. Buku tua ini sudah sangat usang dan lusuh. Sebagian besar tulisannya telah dipudarkan oleh waktu, hanya menyisakan beberapa bagian kata-kata."
   },
+  "DraftManuscriptOfHyakuninIkkiTheGreatestBattle": {
+    "name": "Naskah \"Hyakunin Ikki: Pertempuran Terbesar\"",
+    "description": ""
+  },
   "WyattsRedKey": {
     "name": "Kunci Merah Wyatt",
     "description": "Kunci untuk gerbang gudang yang dipegang oleh Wyatt. Kemungkinan dia menghilangkannya sama dengan kemungkinan dia menghilangkan dompetnya yang tipis."
@@ -1873,7 +1885,7 @@
   },
   "LegendOfTheShatteredHalberdIV": {
     "name": "Legenda Tombak Dewa (IV)",
-    "description": "\"Tenanglah, anakku. Dengarkan aku, Mir. Aku bukan ayah kandungmu...\"\\n\"Tidaak-!\"\\nOrang yang mengaku sebagai Menteri Perjamuan Kekaisaran itu ternyata adalah Khan, sang Asura dari Jotunheim. Meninggalkan ibukota hanyalah tipu muslihat dengan bekerjasama antara Menteri Upacara dan Sekretaris Agung untuk melindungi anak perempuan sang Kaisar Celestial.\\n\"Almarhum Kaisar Celestial Shenxiao, yang sekarang menjadi Contra Mundi, dulunya adalah teman baikku. Tapi sekarang, setelah aku mengetahui kamu berhasil memanggilnya, semua keinginanku telah terpenuhi.\""
+    "description": "\"Tenanglah, anakku. Dengarkan aku, Mir. Aku bukan ayah kandungmu...\"\\n\"Tidaak-!\"\\nOrang yang mengaku sebagai Menteri Perjamuan Kekaisaran itu ternyata adalah Khan, sang Asura dari Jotunheim. Meninggalkan ibukota hanyalah tipu muslihat dengan bekerja sama antara Menteri Upacara dan Sekretaris Agung untuk melindungi anak perempuan sang Kaisar Celestial.\\n\"Almarhum Kaisar Celestial Shenxiao, yang sekarang menjadi Contra Mundi, dulunya adalah teman baikku. Tapi sekarang, setelah aku mengetahui kamu berhasil memanggilnya, semua keinginanku telah terpenuhi.\""
   },
   "LegendOfTheShatteredHalberdV": {
     "name": "Legenda Tombak Dewa (V)",
@@ -3073,7 +3085,7 @@
   },
   "NamelessIslandMural": {
     "name": "Mural Nameless Island",
-    "description": "Salinan dari mural yang ditemukan di Pulau Tak Bernama. Sepertinya mural ini menggambarkan sebuah adegan penyelematan..."
+    "description": "Salinan dari mural yang ditemukan di Pulau Tak Bernama. Sepertinya mural ini menggambarkan sebuah adegan penyelamatan ...."
   },
   "TwinningIsleMural": {
     "name": "Mural Twinning Isle",
@@ -3348,7 +3360,7 @@
     "description": "Simbol otoritas Sunchild, mengimitasi bentuk Kekang Emas. Tidak mengandung kekuatan apa pun."
   },
   "DatesMedalOfRecognition": {
-    "name": "Setifikat Pengakuan Date",
+    "name": "Sertifikat Pengakuan Date",
     "description": "Sertifikat pengakuan dari Date. Dibuat dengan sangat baik."
   },
   "SecretRoomKey": {
@@ -3833,7 +3845,7 @@
   },
   "SangonomiyaChronicles": {
     "name": "Kisah Sangonomiya",
-    "description": "Catatan sejarah yang ditulis oleh sejarawan Shogunate terkenal Kujou Michizane, yang dikenal sebagai \"Kujou Sanpitsu-Tou,\" atau \"Sang Penulis Hebat\". Mencatat sejarah Pulau Watatsumi secara garis besar."
+    "description": "Catatan sejarah yang ditulis oleh sejarawan Shogunate terkenal Kujou Michizane, yang dikenal sebagai \"Tiga Petinggi Kujou\", atau \"Sang Ahli Besar kaligrafi\". isinya mencatat tentang sejarah Pulau Watatsumi secara garis besar."
   },
   "TheSagaOfHamavaranPreface": {
     "name": "Perang Hamavaran (Pengantar)",
@@ -4211,9 +4223,57 @@
     "name": "Slip Keberuntungan Lyudochka",
     "description": "Slip keberuntungan yang dibuat khusus untuk menggambarkan bagaimana nasibmu hari ini. Tidak ada yang berbeda dengan Slip Keberuntungan ini, kecuali sebuah fakta bahwa kamu menggunakannya untuk membuka hati Lyudochka.\\nSekarang, Slip Keberuntungan ini telah kembali ke tanganmu, bersama dengan hatinya yang tulus. Jika kamu punya waktu, kenapa tidak pergi saja ke Kuil Agung Narukami untuk melihat Lyudochka?"
   },
+  "TheMiraculousAdventuresOfTheTraveler": {
+    "name": "Petualangan Ajaib Sang Pengembara",
+    "description": "\"Ini adalah novel ringan yang agak ortodoks, pada dasarnya berisi tentang versi editan dari kehidupan nyata di Teyvat. Bagaimanapun hal yang mengejutkannya adalah fakta bahwa sang penulis tampaknya memiliki pengetahuan yang sangat luas tentang Pulau Watatsumi, dengan banyaknya deskripsi yang jelas dan terasa sangat hidup.\" — Nona Hina"
+  },
+  "LightRealmSigil": {
+    "name": "Sigil Dunia Terang",
+    "description": "Sebuah tanda yang melambangkan pengakuan Enkanomiya Tokoyo Ookami.\\nBenda ini dapat diberikan ke patung Vassals of Watatsumi untuk meningkatkan level Bokuso Box."
+  },
+  "LightRealmCore": {
+    "name": "Inti Dunia Terang",
+    "description": "Kamu menemukan batu misterius ini saat menjelajahi alam gelap Enkanomiya.\\nDunia Terang menyediakan bantuan tambahan kepada manusia untuk melawan Abyss."
+  },
+  "AFirsthandGuideToSummoningSpirits": {
+    "name": "Buku Panduan Memanggil Roh",
+    "description": "Sebuah novel ringan yang sedang populer di Inazuma akhir-akhir ini. Isinya menceritakan segala macam cerita aneh tentang youkai kuno."
+  },
+  "DreamSakura": {
+    "name": "Sakura Mimpi",
+    "description": "Kamu memegang satu kelopak sakura di tanganmu sebelum meninggalkan alam kesadaran Raiden Makoto. \\nKeberadaannya adalah sebuah misteri. Meskipun tidak tampak berbeda dari kelopak sakura biasa dan sama-sama berada di dalam tasmu seperti benda-benda yang lainnya, tapi kamu sudah tidak bisa menyentuhnya, merasakan berat, ataupun kehangatannya lagi. Ketika sebuah objek kehilangan atribut dasar yang biasa membuatnya dikenal, bagaimanakah kemudian \"keberadaannya\" itu dapat dibuktikan dengan pasti?\\nSaat kamu memikirkan kembali banyak pemandangan yang harus disaksikan kelopak bunga tersebut di masa lalu, pikiranmu menerka-nerka: keberadaan kelopak sakura ini pastilah ditopang oleh kehendak seseorang. Namun kita tidak dapat mengetahui siapakah orang ini, dan apakah mereka melakukannya dengan sengaja atau tidak dalam menjaga keberadaan kelopak ini. Kamu juga tidak dapat membuktikan apakah tekad itu berasal dari sebuah kerinduan, atau kepercayaan, ataukah rasa syukur.\\nMungkin, ketika \"kehendak orang itu\" berubah, kelopak sakura ini juga akan menghilang.\\nDemi keamananmu, mungkin lebih baik untuk selalu memeriksa kelopak sakura ini lagi dan lagi, dari waktu ke waktu untuk memastikan apakah benda ini masih akan ada atau tidak."
+  },
+  "AphotiumOre": {
+    "name": "Bijih Laut Dalam",
+    "description": "Bijih khusus yang dibuat untuk pelaksanaan Watatsumi Goryou Matsuri. Karena lingkungan Enkanomiya telah mengalami perubahan yang ekstrem, ingatan dan pikiran yang tersebar di seluruh Watatsumi telah menyatu menjadi sebuah medula, yang kemudian berubah menjadi bijih."
+  },
+  "TokoyoLegume": {
+    "name": "Kacang Tokoyo",
+    "description": "Tanaman khusus yang diproduksi melalui Watatsumi Goryou Matsuri. Dengan bangkitnya Sangacorex, kekuatan elemen yang ada di Enkanomiya berubah menjadi lembut. Tanaman subur yang tumbuh secara alami ini sedang menunggu waktunya membusuk dan berubah menjadi lempung di dalam tanah."
+  },
+  "HuskGem": {
+    "name": "Permata Cangkang",
+    "description": "Permata yang jatuh dari baju zirah Shadowy Husk spesial setelah kamu mengalahkannya. Kamu bisa merasakan keinginan yang bergejolak di dalamnya. Mungkin lebih tepat untuk dikatakan bahwa permata ini lebih condong memanifestasikan dirinya melalui baju zirah ketimbang memanipulasinya."
+  },
+  "FragmentedAccessory": {
+    "name": "Aksesori yang Hancur",
+    "description": "Aksesori kecil yang kamu dapatkan dari Kokomi. Benda ini tampak seperti pecahan dari objek lain. Menurut Kokomi, benda ini mungkin berguna dalam beberapa kondisi."
+  },
+  "TsumisMap": {
+    "name": "Peta Tsumi",
+    "description": "Sebuah peta yang digambar oleh Tsumi. Ada beberapa tanda yang tertera di atasnya."
+  },
   "HakuenMichimitsuAmenoma": {
     "name": "Hakuen Michimitsu Amenoma",
     "description": "Pedang pusaka milik Klan Iwakura.\\nMeskipun orang yang menempa pedang ini memiliki keterampilan yang hebat, dan meskipun pedang ini telah membunuh banyak musuh, pedang ini tidak memiliki kekuatan khusus. Keturunan Klan Iwakura juga tidak pernah memperoleh Vision. Ilmu pedang yang luar biasa milik mereka adalah murni hasil dari mengasah pikiran, tubuh, dan teknik mereka.\\nPedang ini sudah lama terendam air dan tampak begitu berkarat."
+  },
+  "DamagedStoneSlate": {
+    "name": "Tablet Batu yang Rusak",
+    "description": "Sebuah tablet batu yang tampak biasa saja. Entah apa rahasia yang tersembunyi di dalamnya."
+  },
+  "MysteriousStoneSlate": {
+    "name": "Tablet Batu Misterius",
+    "description": "Tablet batu terakhir yang diperoleh. Di atas rahasia masih ada rahasia."
   },
   "PyroShard": {
     "name": "Pyro Shard",
@@ -6103,6 +6163,34 @@
     "name": "Cloud-Shrouded Jade",
     "description": "Hidangan andalan Yun Jin. Camilan manis dan lengket ini tidak akan memengaruhi tenggorokan, karena itulah camilan ini adalah camilan favorit Yun Jin. Rasanya ringan dan tidak akan membuat orang merasa bosan. Dipikir-pikir, porsinya memang sedikit lebih banyak dari yang biasanya dia buat untuk dirinya sendiri. Mungkin inilah bentuk dari kebaikan hatinya."
   },
+  "SuspiciousSangayaki": {
+    "name": "Suspicious Sangayaki",
+    "description": "Lauk-pauk nelayan yang sederhana. Kelebihan garam dan bau amis bercampur-aduk bagaikan badai yang menyapu indra penciumanmu. Jagalah tanganmu jangan sampai gemetaran — tolong."
+  },
+  "Sangayaki": {
+    "name": "Sangayaki",
+    "description": "Lauk-pauk nelayan yang sederhana. Ikan yang baru ditangkap dikupas kulitnya dan diiris, dicincang bersama dengan Snapdragon, lalu dicampur dengan miso dan garam sampai membentuk adonan, dan akhirnya dipanggang. Aroma yang menggugah selera menembus masuk ke dalam hidungmu jauh sebelum makanan ini masuk ke dalam mulutmu. Setelah memakannya tiga porsi, kamu masih merasakan bahwa ketiga porsi tersebut belumlah cukup."
+  },
+  "DeliciousSangayaki": {
+    "name": "Delicious Sangayaki",
+    "description": "Lauk-pauk nelayan yang sederhana. Makanan ini kaya akan nutrisi dan rasa. Bagian luarnya yang sedikit hangus dan menguning membungkus kelembutan yang ada di dalamnya — memberikan dua kenikmatan sekaligus! Dimakan mentah saja, pasta ikan ini sudah cukup lezat. Kalau masih sempat untuk memangganggnya dengan arang, rasanya tentu akan menjadi lebih nikmat."
+  },
+  "SuspiciousUdonNoodles": {
+    "name": "Suspicious Udon Noodles",
+    "description": "Mi yang sangat kenyal. Mi dan sup yang terlalu hambar membuat orang merasa kebosanan. Sepertinya lain kali kamu harus lebih memperhatikan pencampuran bumbunya."
+  },
+  "UdonNoodles": {
+    "name": "Udon Noodles",
+    "description": "Mi yang sangat kenyal. Setelah beberapa kali diangkat dan ditarik, akhirnya jadilah mi yang halus dan kenyal. Tidak seperti ramen yang mengutamakan rasa padat, mi udon menggunakan rasanya ringan untuk menyembuhkan jiwa orang Inazuma."
+  },
+  "DeliciousUdonNoodles": {
+    "name": "Delicious Udon Noodles",
+    "description": "Jenis mi yang kenyal sekali. Udon yang putih, lembut dan kenyal bergabung dengan sup yang dibumbui secara elegan untuk menjadi hidangan sederhana namun menenangkan hati. Aroma gandum yang samar mungkin akan turun ke perutmu bersama dengan mi yang manis, tapi akan diikuti oleh sebuah rasa kehangatan."
+  },
+  "FukuuchiUdon": {
+    "name": "Fukuuchi Udon",
+    "description": "Hidangan andalan Yae Miko. Tahu goreng di sini dibuat khusus oleh Lady Kitsune yang sungguh-sungguh. Dikatakan bahwa kalau kamu memakannya sekaligus dengan ketulusan hatimu, kamu akan mendapatkan perlindungan dari Kitsune yang Agung — kemalangan akan berlalu dan keberuntungan akan berlimpah!"
+  },
   "RecipeItem": {
     "name": "Bahan Resep",
     "description": "Membuka alat memasak"
@@ -6527,6 +6615,14 @@
     "name": "Resep: Dragon Beard Noodles",
     "description": "Resep yang berisi langkah-langkah untuk membuat Dragon Beard Noodles."
   },
+  "RecipeSangayaki": {
+    "name": "Resep: Sangayaki",
+    "description": "Resep yang berisi langkah-langkah untuk membuat Sangayaki."
+  },
+  "RecipeUdonNoodles": {
+    "name": "Resep: Udon Noodles",
+    "description": "Resep yang berisi langkah-langkah untuk membuat Udon Noodles."
+  },
   "CraftedItems": {
     "name": "Hasil Craft",
     "description": "Item yang terbentuk dari proses Crafting."
@@ -6705,7 +6801,7 @@
   },
   "ForbiddenCurseScroll": {
     "name": "Forbidden Curse Scroll",
-    "description": "Gulungan yang berisi gambar-gambar kuno. Tidak banyak orang yang dapat mengerti isinya, beberapa ahli menyerah setelah menghabiskan waktu bertahun-tahun untuk memahaminya."
+    "description": "Gulungan yang berisi gambar-gambar kuno. Tidak banyak orang yang dapat mengerti isinya, beberapa ahli bahkan menjadi gila setelah menghabiskan waktu bertahun-tahun untuk memahaminya."
   },
   "FirmArrowhead": {
     "name": "Firm Arrowhead",
@@ -7023,6 +7119,18 @@
     "name": "Dragonheir's False Fin",
     "description": "Sepotong jaringan biologis yang kamu temukan setelah mengalahkan Bathysmal Vishap.\\nMeskipun terlihat seperti semacam sirip, namun sebenarnya ia tidak punya fungsi apa pun.\\nOrang-orang Byakuyakoku pernah melakukan penelitian yang mendalam terhadap Bathysmal Vishap. Ciri paling khas yang mereka miliki adalah kemampuan untuk memilih sifat genetis apa yang ingin diturunkan oleh mereka kepada keturunannya. Karena kebencian mereka yang besar terhadap umat manusia, para vishap ini akan kehilangan ketajaman visualnya pada saat mereka mencapai usia dewasa. Pada saat yang sama, mereka juga telah mengembangkan tingkat keberagaman struktur atom dalam unsur tertentu untuk tujuan pertempuran."
   },
+  "MudraOfTheMaleficGeneral": {
+    "name": "Mudra of the Malefic General",
+    "description": "Sendi boneka yang didapatkan dari Plane of Euthymia. Bagian ini menggambarkan konsep \"melakukan apa yang dilihat\".\\nBahkan saat \"dia\" telah menjadi dewa kehancuran, dia tetap bisa menggunakan gerakan seperti itu, dengan pedang yang melesat secepat mata berkedip.\\nNamun karena bencana yang berlangsung terus menerus, cangkang sang jenderal yang ganas pun harus bersemi kembali."
+  },
+  "TearsOfTheCalamitousGod": {
+    "name": "Tears of the Calamitous God",
+    "description": "Sendi boneka yang didapatkan dari Plane of Euthymia. Bagian ini berbentuk Eye of Stormy Judgment.\\nKarena dapat menjatuhkan kutukan dan bencana hanya dengan tatapannya, tidak heran kalau orang menyalahkan kesialan hidupnya pada dewa kehancuran. Tapi kalau kamu pikir baik-baik, kalau tekadmu cukup kuat, dan imanmu cukup kuat ...\\nKehancurannya sudah berlangsung terlalu lama. Bahkan tatapan paling keji sekalipun harus membasuh dirinya dengan air mata."
+  },
+  "TheMeaningOfAeons": {
+    "name": "The Meaning of Aeons",
+    "description": "Hiasan kepala kecil yang didapatkan dari Plane of Euthymia setelah semuanya mereda.\\nSebuah pikiran dapat mengakhiri segala bencana, dan akan selalu ada pikiran yang melampaui waktu.\\nDi tengah semua ini, entah arti sebenarnya yang ingin Makoto sampaikan sudah tersampaikan atau belum."
+  },
   "TileOfDecarabiansTower": {
     "name": "Tile of Decarabian's Tower",
     "description": "Material Ascension Senjata.\\nTempat yang sekarang dikenal sebagai Stormterror's Lair dulunya adalah ibu kota yang dibangun oleh Decarabian sang Dewa Badai. Karena mimpi kemakmuran ini dibangun oleh kekuatannya, pecahan-pecahan yang tertinggal saat mimpinya hancur masih memiliki kekuatan besar."
@@ -7217,7 +7325,7 @@
   },
   "AdventurersInstructionalBundle": {
     "name": "Adventurer's Instructional Bundle",
-    "description": "Barang spesial yang hanya dibagikan saat musim ramai. Ayo, pendatang baru di Guild, dengarkanlah nasihat dari pada seniormu ini dan tumbuhlah menjadi hebat."
+    "description": "Barang spesial yang hanya dibagikan saat musim ramai. Ayo, pendatang baru di Guild, dengarkanlah nasihat daripada seniormu ini dan tumbuhlah menjadi hebat."
   },
   "AdventurersTemperingBundle": {
     "name": "Adventurer's Tempering Bundle",
@@ -7594,6 +7702,10 @@
   "Alkahest": {
     "name": "Alkahest",
     "description": "Material refinement khusus untuk Cinnabar Spindle.\\nSuatu zat perak bersinar dengan cahaya dunia lain yang merupakan racun korosif mematikan bagi benda-benda di dunia ini. Namun ia juga memiliki kekuatan untuk meningkatkan materi ...."
+  },
+  "OintmentOfSight": {
+    "name": "Ointment of Sight",
+    "description": "Material refinement khusus untuk Oathsworn Eye.\\nMinyak Deep Sea Unagi spesial yang pernah digunakan untuk merawat artefak suci Enkanomiya, diproses secara khusus demi membuat mata ini bersinar dengan sangat terang."
   },
   "FalconsDance": {
     "name": "Falcon's Dance",
@@ -8207,6 +8319,18 @@
     "name": "Catatan Perjalanan: Aliran Warna",
     "description": "Style kartu nama.\\nSemua hal akan menjadi baru ketika dilewati aliran warna."
   },
+  "CelebrationBingeVessel": {
+    "name": "Perayaan: Wadah Meriah",
+    "description": "Style kartu nama.\\nAda banyak sekali cerita di sini, tapi tidak ada alkohol. Bahkan Paimon pun boleh minum."
+  },
+  "YaeMikoKitsuneDreaming": {
+    "name": "Yae Miko: Kitsune Dreaming",
+    "description": "Style kartu nama.\\nDi manakah kamu bisa menemukan wujud rubah Yae Miko? Di dalam mimpi."
+  },
+  "TravelNotesAwakening": {
+    "name": "Catatan Perjalanan: Kebangkitan",
+    "description": "Style kartu nama.\\nKetiga dunia bergejolak, langit dan bumi bangkit. Sang Sangacorex juga akan bangkit dari tidur abadinya."
+  },
   "AnemoculusResonanceStone": {
     "name": "Anemoculus Resonance Stone",
     "description": "Dapat mencari Anemoculus terdekat saat digunakan di wilayah Mondstadt.\\nPiringan batu buatan manusia yang memiliki beberapa kemiripan dengan Patung The Seven Anemo. Batu ini dapat beresonansi dengan Anemoculus.\\n Merupakan tiruan kasar dari Patung The Seven yang sudah ada di dunia sejak dahulu kala. Batu ini memberikan kesempatan kepada para penjelajah dan petualang untuk mencari Anemoculus yang hilang."
@@ -8367,6 +8491,10 @@
     "name": "Launch Tube",
     "description": "Sebuah alat khusus yang diciptakan pengrajin Pengyi. Alat ini berfungsi untuk meleburkan dan meluncurkan kembang api secara otomatis. Di tangan seseorang yang kreatif, alat ini pasti bisa menciptakan pertunjukan kembang api yang unik dan meriah."
   },
+  "BokusoBox": {
+    "name": "Bokuso Box",
+    "description": "Setelah digunakan, benda ini dapat membersihkan satu area tertentu di Enkanomiya dari pengaruh kegelapan.\\nNama \"Bokuso\" diambil dari \"boku\", yang artinya \"mendekati sesuatu yang baik dan indah\", dan \"so\", yang artinya \"menjauhi sesuatu yang kotor dan ternoda\"."
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Panduan: Anemoculus Resonance Stone",
     "description": "Penjelasan terperinci tentang proses pembuatan \"Anemoculus Resonance Stone\". Setelah menguasainya, kamu bisa membuatnya untuk mencari item \"Anemoculus\"."
@@ -8526,6 +8654,22 @@
   "OpulentSplendor": {
     "name": "Opulent Splendor",
     "description": "Pakaian resmi Keqing. Ia hadir di tengah pagi yang indah pada momen Lantern Rite. Benang yang sudah dirajut begitu lama oleh jerih payah ini, kemudian terjalin menjadi penampilan yang sederhana namun mengesankan."
+  },
+  "GunnhildrsLegacy": {
+    "name": "Gunnhildr's Legacy",
+    "description": "Model pakaian Jean. Pakaian formal Knight yang elegan ini cocok dipakai untuk segala jenis acara."
+  },
+  "Outrider": {
+    "name": "100% Outrider",
+    "description": "Model pakaian Amber. Yang muncul kali ini, tidak lain adalah Outrider yang lebih keren dan lebih formal loh!"
+  },
+  "PactOfStarsAndMoon": {
+    "name": "Pact of Stars and Moon",
+    "description": "Model pakaian Mona. Pakaian yang dibeli khusus untuk menyambut \"momen yang ditakdirkan\" dalam konsep astrologi. Untung ada voucher diskon 30% dari pengembalian dana planetarium."
+  },
+  "ToTheChurchsFreeSpirit": {
+    "name": "To the Church's Free Spirit",
+    "description": "Model pakaian Rosaria. Set pakaian ini tampaknya adalah hadiah eksklusif yang dibuat oleh Katedral untuk Rosaria."
   },
   "AdventurerCamp": {
     "name": "Kemah Petualang",
@@ -8713,7 +8857,7 @@
   },
   "WakefulSpring": {
     "name": "Kolam Pemandian Penyegar",
-    "description": "Blueprint yang berisi langkah-langkah terperinci untuk memasang Kolam Pemandian Penyegar.\\nPemandian air panas ini adalah pemandian terbuka yang memiliki fasilitas lengkap. Meski mineral yang terkandung dalam pemandian ini tidak sama dengan Aisa Bathhouse, namun pemandian ini tidak punya banyak aturan dan suasananya jauh lebih santai.\\nSetelah berendam selama setengah jam, semua kelelahan di hari ini akan sirna, dan semangat yang runtuh pun akan terbangkitkan kembali. Bila waktu kamu masih cukup banyak, bersandarlah di batu putih di sekeliling kolam, berbincang-bincang dengan teman sambil menghirup secangkir teh.\\nTentu saja sebelum memasuki kolam kamu perlu memperhatikan beberapa etiket dasar. Saat berendam bersama teman, perhatikan lamanya waktu kamu berendam. Bila berendam bersama Ratu Festival Musim Panas dan berbincang terlalu lama, kepala bisa pusing loh.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.\\nRekan yang menyukai set perabot ini: Yoimiya, Gorou"
+    "description": "Blueprint yang berisi langkah-langkah terperinci untuk memasang Kolam Pemandian Penyegar.\\nPemandian air panas ini adalah pemandian terbuka yang memiliki fasilitas lengkap. Meski mineral yang terkandung dalam pemandian ini tidak sama dengan Aisa Bathhouse, namun pemandian ini tidak punya banyak aturan dan suasananya jauh lebih santai.\\nSetelah berendam selama setengah jam, semua kelelahan di hari ini akan sirna, dan semangat yang runtuh pun akan terbangkitkan kembali. Bila waktu kamu masih cukup banyak, bersandarlah di batu putih di sekeliling kolam, berbincang-bincang dengan teman sambil menghirup secangkir teh.\\nTentu saja sebelum memasuki kolam kamu perlu memperhatikan beberapa etiket dasar. Saat berendam bersama teman, perhatikan lamanya waktu kamu berendam. Bila berendam bersama Ratu Festival Musim Panas dan berbincang terlalu lama, kepala bisa pusing loh.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.\\nRekan yang menyukai set perabot ini: Yoimiya, Gorou, Yae Miko"
   },
   "RuralConcealment": {
     "name": "Desa Bayangan",
@@ -8721,7 +8865,7 @@
   },
   "AncientBranchShrine": {
     "name": "Kuil Kenangan",
-    "description": "Blueprint yang berisi langkah-langkah terperinci untuk memasang Kuil Kenangan. \\nDesain arsitektural, cat merah cerah, dan tata letak keseluruhan kuil yang tenang dan indah ini memiliki gaya yang sama dengan Kuil Agung Narukami. Bagi manusia, kuil ini adalah tempat meditasi bagi manusia. Tetapi bagi Yang Mulia Shogun, pemandangan di kuil ini sepertinya dapat membentuk ingatan yang samar tentang masa lalu ....\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.\\nRekan yang menyukai set perabot ini: Raiden Shogun"
+    "description": "Blueprint yang berisi langkah-langkah terperinci untuk memasang Kuil Kenangan. \\nDesain arsitektural, cat merah cerah, dan tata letak keseluruhan kuil yang tenang dan indah ini memiliki gaya yang sama dengan Kuil Agung Narukami. Bagi manusia, kuil ini adalah tempat meditasi bagi manusia. Tetapi bagi Yang Mulia Shogun, pemandangan di kuil ini sepertinya dapat membentuk ingatan yang samar tentang masa lalu ....\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan.\\nRekan yang menyukai set perabot ini: Raiden Shogun, Yae Miko"
   },
   "MilitaryExerciseGrounds": {
     "name": "Tempat Latihan Seribu Tentara",
@@ -9619,6 +9763,18 @@
     "name": "Gudang Perumahan: Penyimpanan Sembako",
     "description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Gudang Perumahan: Penyimpanan Sembako.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
   },
+  "InazumanHomeWatatsumiReminiscence": {
+    "name": "Rumah Rakyat Inazuma: Kenangan Watatsumi",
+    "description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Rumah Rakyat Inazuma: Kenangan Watatsumi.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+  },
+  "InazumanHomeHouseOfCoral": {
+    "name": "Rumah Rakyat Inazuma: Rumah Karang",
+    "description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Rumah Rakyat Inazuma: Rumah Karang.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+  },
+  "InazumanHomeStormhouse": {
+    "name": "Rumah Rakyat Inazuma: Rumah Badai",
+    "description": "Blueprint yang berisi langkah-langkah terperinci untuk membuat Rumah Rakyat Inazuma: Rumah Badai.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+  },
   "BirdAndBlossomDesignFountain": {
     "name": "Air Mancur Bunga & Burung",
     "description": "Blueprint yang berisi langkah-langkah untuk membuat \"Air Mancur Bunga & Burung\".\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
@@ -9670,6 +9826,10 @@
   "OfFieldsGreenClearSpringFountain": {
     "name": "Ladang Hijau: Air Mancur Musim Semi",
     "description": "Blueprint yang berisi langkah-langkah untuk membuat Ladang Hijau: Air Mancur Musim Semi.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
+  },
+  "SubSpaceCabochonInSoaringFlight": {
+    "name": "Batu Ajaib Penciptaan Ruang: Terbang Mengudara",
+    "description": "Blueprint yang berisi langkah-langkah untuk membuat Batu Ajaib Penciptaan Ruang: Terbang Mengudara.\\nSetelah digunakan, blueprint ini dapat dilihat di dalam Menu Pembuatan."
   },
   "AdeptusGate": {
     "name": "Gerbang Adeptus",

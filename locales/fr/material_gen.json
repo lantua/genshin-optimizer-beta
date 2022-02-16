@@ -435,6 +435,10 @@
     "name": "Arataki Itto",
     "description": "Le premier et plus grand chef du gang Arataki, célèbre dans tout Hanamizaka, à la Cité d'Inazuma... Hein, quoi ? Jamais entendu parler d'eux ? Sérieux ?"
   },
+  "YaeMiko": {
+    "name": "Yae Miko",
+    "description": "La Guuji Yae du Sanctuaire de Narukami est également responsable éditoriale de la Chambre Yae. Une intelligence et une ruse inimaginables sont cachées sous son apparence gracieuse."
+  },
   "Aloy": {
     "name": "Aloy",
     "description": "Autrefois une paria, maintenant une chasseuse d'une acuité sans précédent. Toujours prête à utiliser son arc pour la bonne cause."
@@ -622,6 +626,10 @@
   "AratakiIttosStellaFortuna": {
     "name": "Stella Fortuna d'Arataki Itto",
     "description": "Matériau d'activation de la constellation d'Arataki Itto."
+  },
+  "YaeMikosStellaFortuna": {
+    "name": "Stella Fortuna de Yae Miko",
+    "description": "Matériau d'activation de la constellation de Yae Miko."
   },
   "AloysStellaFortuna": {
     "name": "Stella Fortuna d'Aloy",
@@ -1495,6 +1503,10 @@
     "name": "Aventures en montagne et en mer",
     "description": "Le journal de Léonard, un aventurier des temps anciens. Les ravages du temps ont eu raison de son contenu dont il ne reste que quelques bribes."
   },
+  "DraftManuscriptOfHyakuninIkkiTheGreatestBattle": {
+    "name": "Brouillon de « Hyakunin Ikki - Le tournoi des meilleurs combattants »",
+    "description": ""
+  },
   "WyattsRedKey": {
     "name": "Clé rouge de Wyatt",
     "description": "Une clé appartenant à Wyatt, qui sert à ouvrir la porte de l'entrepôt. Il est facile de la perdre."
@@ -1665,7 +1677,7 @@
   },
   "TeyvatTravelGuideLiyue": {
     "name": "Guide de voyage en Teyvat - Liyue",
-    "description": "Un magazine publié par la Guilde des aventuriers. Chaque numéro montre de beaux paysages et recommande les lieux à visiter en Teyvat. Ce numéro comprend les petits récits de Liyue de d'Alice, la voyageuse."
+    "description": "Un magazine publié par la Guilde des aventuriers. Chaque numéro montre de beaux paysages et recommande les lieux à visiter en Teyvat. Ce numéro comprend les petits récits de Liyue d'Alice, la voyageuse."
   },
   "Letter": {
     "name": "Lettre",
@@ -1877,7 +1889,7 @@
   },
   "LegendOfTheShatteredHalberdV": {
     "name": "Le Bris de l'arme divine - Tome V",
-    "description": "Nombreux sont ceux dans l'armée qui aimeraient voir le mont sacré descellé ; le chaos qui s'ensuivrait verrait ainsi le rôle et la position des artistes martiaux devenir beaucoup plus importants. »\\n« Ils ne veulent quand même pas relancer une autre guerre des Asuras ?»\\n« Lui le souhaite. »\\nLes passes d'arme entre les officiels civils et militaires ainsi que les plans des dieux du passé menacent à nouveau la paix des neuf royaumes !"
+    "description": "Nombreux sont ceux dans l'armée qui aimeraient voir le mont sacré descellé ; le chaos qui s'ensuivrait verrait ainsi le rôle et la position des artistes martiaux devenir beaucoup plus importants. »\\n« Ils ne veulent quand même pas relancer une autre guerre des Asuras ? »\\n« Lui le souhaite. »\\nLes passes d'arme entre les officiels civils et militaires ainsi que les plans des dieux du passé menacent à nouveau la paix des neuf royaumes !"
   },
   "HeartsDesireMoonlight": {
     "name": "Rêves brisés - Clair de lune",
@@ -3833,7 +3845,7 @@
   },
   "SangonomiyaChronicles": {
     "name": "Chroniques de Sangonomiya",
-    "description": "Annales historiques écrites par le célèbre historien du Shogunat Kujou Michizane, connu sous le nom de « Kujou Sanpitsu-Tou » ou « Grand calligraphe ». Il y relate brièvement l'histoire de l'Île de Watatsumi."
+    "description": "Annales historiques écrites par le célèbre historien du Shogunat Kujou Michizane, connu comme l'un des « Trois dignitaires Kujou » ou le « Grand calligraphe ». Il y relate brièvement l'histoire de l'Île de Watatsumi."
   },
   "TheSagaOfHamavaranPreface": {
     "name": "Les guerres d'Hamavaran - Préface",
@@ -3949,7 +3961,7 @@
   },
   "Onibudou": {
     "name": "Onibudo",
-    "description": "Un volume indépendant de la série de romans « Onibudo » écrite par Junkichi, un auteur de la Chambre Yae. Celui-ci contient les deux premiers arcs majeurs de l'histoire. La qualité des chapitres sérialisés varie, mais la série reste bien appréciée par les lecteurs."
+    "description": "Un volume indépendant de la série de romans légers « Onibudo » écrite par Junkichi, un auteur de la Chambre Yae. Celui-ci contient les deux premiers arcs majeurs de l'histoire. La qualité des chapitres sérialisés varie, mais la série reste bien appréciée par les lecteurs."
   },
   "LuckyOmamori": {
     "name": "Omamori porte-bonheur",
@@ -4209,11 +4221,59 @@
   },
   "LyudochkasFortuneSlip": {
     "name": "Présage de Lyudochka",
-    "description": "Un omikuji spécial qui parle de ce qui vous attend aujourd'hui. Cet omikuji n'a rien de différent par rapport aux autres omikuji, à part le fait qu'il ait réveillé les sentiments de Lyudochka.\\nÀ présent, cet omikuji est revenu entre vos mains, avec sa bénédiction sincère. Si vous avez le temps, pourquoi ne pas aller au Sanctuaire Narukami pour lui rendre visite ?"
+    "description": "Un omikuji spécial qui parle de ce qui vous attend aujourd'hui. Cet omikuji n'a rien de différent par rapport aux autres omikuji, à part le fait qu'il ait réveillé les sentiments de Lyudochka.\\nÀ présent, cet omikuji est revenu entre vos mains, avec sa bénédiction sincère. Si vous avez le temps, pourquoi ne pas aller au Sanctuaire de Narukami pour lui rendre visite ?"
+  },
+  "TheMiraculousAdventuresOfTheTraveler": {
+    "name": "« Les extraordinaires aventures {M#du voyageur}{F#de la voyageuse} »",
+    "description": "« Il s'agit d'un roman léger plutôt classique, dont le contenu est essentiellement une version éditée de ce qu'est la vie en Teyvat. Ce qui est surprenant, cependant, c'est que l'auteur semble bien connaître l'Île de Watatsumi, avec des descriptions vivantes, presque réalistes. » - Mademoiselle Hina"
+  },
+  "LightRealmSigil": {
+    "name": "Sceau du Royaume de la lumière",
+    "description": "Une marque qui symbolise la reconnaissance d'Ookami Tokoyo à Enkanomiya.\\nOn peut les donner en offrande à la statue de vassal pour améliorer la Boîte de Bokuso."
+  },
+  "LightRealmCore": {
+    "name": "Noyau du Royaume de la lumière",
+    "description": "Vous avez découvert cette pierre mystérieuse en explorant le royaume obscur d'Enkanomiya.\\nLe Royaume de la lumière a donné aux humains des moyens supplémentaires de résister à l'Abîme."
+  },
+  "AFirsthandGuideToSummoningSpirits": {
+    "name": "Guide pratique sur le spiritisme",
+    "description": "Roman léger rendu populaire récemment à Inazuma. Il contient toutes sortes d'histoires bizarres à propos d'anciens démons."
+  },
+  "DreamSakura": {
+    "name": "Sakura onirique",
+    "description": "Un pétale de fleur de cerisier que vous teniez dans la main avant de quitter le royaume de la conscience de Raiden Makoto.\\nSon existence est un mystère. Il ne semble pas différent des autres pétales de fleur de cerisier et repose tranquillement dans votre sac, comme tout autre objet réel. Mais vous ne pouvez plus le toucher, ni sentir son poids ou sa chaleur. Lorsqu'un objet perd l'un des attributs qu'il avait normalement, comment peut-on être sûr qu'il existe toujours ?\\nEn repensant à tout ce qui s'est passé avant d'obtenir ce pétale, vous vous dites que ce doit être la volonté de quelqu'un qui maintient son existence. Mais quant à savoir qui c'est et si cette personne le fait de façon intentionnelle ou non, vous n'avez pas de réponse à ces questions. Vous ne pouvez pas non plus prouver si cette volonté provient du désir, de la confiance ou de la gratitude.\\nPeut-être que lorsque « la volonté de cette personne » changera, ce pétale de fleur de cerisier disparaîtra également.\\nPour en être {M#sûr}{F#sûre}, vous feriez bien de vérifier de temps à autre s'il est encore là."
+  },
+  "AphotiumOre": {
+    "name": "Minerai d'abyssium",
+    "description": "Un minerai spécial créé grâce au rituel sacré de Watatsumi. Quand l'environnement d'Enkanomiya a drastiquement changé, les souvenirs et pensées éparpillés à travers Watatsumi se sont solidifiés en médulles, qui se sont ensuite transformés en minerai."
+  },
+  "TokoyoLegume": {
+    "name": "Tilleul de Tokoyo",
+    "description": "Une plante spéciale qui a été produite grâce au rituel sacré de Watatsumi. Avec l'éveil des sangocorex, les énergies élémentaires au sein d'Enkanomiya ont été pacifiées. Il s'agit d'une culture fertilisante à croissance naturelle qui se transforme en terreau quand elle se décompose dans le sol."
+  },
+  "HuskGem": {
+    "name": "Gemme de carapace",
+    "description": "Une gemme tombée de l'armure d'une Carapace sombre spéciale après l'avoir vaincue. Vous pouvez sentir la volonté qui l'assaille. Peut-être serait-il plus juste de dire que cette volonté s'est manifestée au travers de l'armure plutôt que de dire qu'elle l'a manipulée."
+  },
+  "FragmentedAccessory": {
+    "name": "Accessoire cassé",
+    "description": "Un petit accessoire obtenu des mains de Kokomi. On dirait qu'il s'agit d'un fragment d'un autre objet. D'après elle, il pourrait s'avérer utile en temps voulu."
+  },
+  "TsumisMap": {
+    "name": "Carte de Tsumi",
+    "description": "Une carte dessinée par Tsumi. Il y a quelques marques dessus."
   },
   "HakuenMichimitsuAmenoma": {
     "name": "Hakuen Michimitsu d'Amenoma",
     "description": "Une épée transmise de génération en génération au sein du Clan Iwakura.\\nCette arme fut forgée par un artisan au talent exceptionnel et nombreux sont les ennemis qui connurent le trépas sous ses coups. Cependant, elle ne possède aucun pouvoir spécial. Tout comme aucun descendant du Clan Iwakura n'a possédé d'œil divin, leurs prouesses à l'épée ne furent que le résultat d'un perfectionnement du corps, de l'esprit et de la technique.\\nAyant passé une éternité sous l'eau, sa lame est complètement rouillée."
+  },
+  "DamagedStoneSlate": {
+    "name": "Stèle endommagée",
+    "description": "Une ardoise de pierre apparemment ordinaire. Qui sait quels secrets elle pourrait contenir..."
+  },
+  "MysteriousStoneSlate": {
+    "name": "Stèle mystérieuse",
+    "description": "La dernière stèle de pierre que vous avez obtenue. Des secrets enfouis dans d'autres secrets..."
   },
   "PyroShard": {
     "name": "Fragment Pyro",
@@ -4585,7 +4645,7 @@
   },
   "SkyriderGreatswordChest": {
     "name": "Coffre de la Grande épée céleste",
-    "description": "Ce coffre qui s'ouvre automatiquement contient Grande épée céleste."
+    "description": "Ce coffre qui s'ouvre automatiquement contient une Grande épée céleste."
   },
   "MondstadtShrineOfDepthsKey": {
     "name": "Clé de Sanctuaire des profondeurs de Mondstadt",
@@ -6103,6 +6163,34 @@
     "name": "Jade de nuages",
     "description": "Spécialité culinaire de Yun Jin. Cette collation sucrée et collante n'affectera pas votre gorge, c'est la raison pour laquelle c'est la préférée de Yun Jin. L'arrière-goût est des plus raffinés, pas quelque chose dont on se lasse facilement. À bien y réfléchir, il y en a plus qu'elle n'en ferait pour elle-même, mais vous n'allez quand même pas vous plaindre de sa gentillesse..."
   },
+  "SuspiciousSangayaki": {
+    "name": "Sangayaki (suspect)",
+    "description": "Un plat de pêcheur simple. Le sel en surabondance et l'odeur fétide du poisson écrasent vos sens olfactifs avec la force d'une tempête. Faites attention où vous mettez vos mains en cuisine..."
+  },
+  "Sangayaki": {
+    "name": "Sangayaki",
+    "description": "Un plat de pêcheur simple. Les écailles du poisson fraîchement péché ont été retirées et sa chair tranchée, émincée avec de la gueule-de-loup et mélangée à du miso et du sel pour former une pâte, puis enfin grillée. Son parfum enivrant pénètre vos narines avant même que vous n'y goûtiez. Vous en êtes déjà à trois portions et vous n'en avez toujours pas assez !"
+  },
+  "DeliciousSangayaki": {
+    "name": "Sangayaki (délicieux)",
+    "description": "Un plat de pêcheur simple. Il allie nutrition et saveurs. L'extérieur légèrement carbonisé et jauni enveloppe un intérieur tendre, offrant deux plaisirs à la fois ! La pâte de poisson était déjà délicieuse crue, et la cuisson au charbon de bois n'a fait que la sublimer."
+  },
+  "SuspiciousUdonNoodles": {
+    "name": "Udon (suspects)",
+    "description": "Des nouilles très élastiques. Les nouilles et la soupe trop fades en font une expérience ennuyeuse. Vous devriez faire un peu plus attention la prochaine fois."
+  },
+  "UdonNoodles": {
+    "name": "Udon",
+    "description": "Des nouilles très élastiques. Après les avoir laissées lever et étirées à de nombreuses reprises, les nouilles sont devenues soyeuses mais élastiques. Contrairement aux ramen, qui sont riches en saveurs, les nouilles udon utilisent des saveurs légères qui apaisent les esprits inazumiens."
+  },
+  "DeliciousUdonNoodles": {
+    "name": "Udon (délicieux)",
+    "description": "Des nouilles très élastiques. Les nouilles udon blanc neige, douces et élastiques à la fois, et la soupe élégamment parfumée se combinent pour donner un plat simple mais réconfortant. De légers effluves de blé peuvent éventuellement traverser votre estomac avec les nouilles sucrées, mais c'est un arrière-goût chaleureux qui reste en bouche."
+  },
+  "FukuuchiUdon": {
+    "name": "Udon porte-bonheur",
+    "description": "Spécialité culinaire de Yae Miko. Le tofu frit a été spécialement préparé par la solennelle dame Kitsune. Il paraît que si vous mangez tout d'une traite de bon cœur, vous aurez la protection de la grande Kitsune. Le malheur s'enfuira et la fortune vous sourira !"
+  },
   "RecipeItem": {
     "name": "Ingrédient",
     "description": "Objet pour débloquer des recettes"
@@ -6526,6 +6614,14 @@
   "RecipeDragonBeardNoodles": {
     "name": "Recette : Barbe à dragon",
     "description": "Étapes de préparation de la barbe à dragon."
+  },
+  "RecipeSangayaki": {
+    "name": "Recette : Sangayaki",
+    "description": "Étapes de préparation des sangayaki."
+  },
+  "RecipeUdonNoodles": {
+    "name": "Recette : Udon",
+    "description": "Étapes de préparation des udon."
   },
   "CraftedItems": {
     "name": "Produit synthétisé",
@@ -7017,11 +7113,23 @@
   },
   "RiftbornRegalia": {
     "name": "Régalia de faille",
-    "description": "Un corne brisée obtenue après avoir vaincu le loup alpha. Cela dit, il n'aurait dû rien rester après votre chasse.\\nMême un seigneur des failles n'est rien en comparaison avec des monstres plus puissants.\\nL'« Or » a produit en masse ce genre de meutes de canidés malformés comme par accident, un peu comme des gribouillis ratés sur des vieux morceaux de papier, et les cornes de ce dernier représentent son autorité à commander sa sombre meute à dissoudre l'espace lui-même."
+    "description": "Une corne brisée obtenue après avoir vaincu le loup alpha. Cela dit, il n'aurait dû rien rester après votre chasse.\\nMême un seigneur des failles n'est rien en comparaison avec des monstres plus puissants.\\nL'« Or » a produit en masse ce genre de meutes de canidés malformés comme par accident, un peu comme des gribouillis ratés sur des vieux morceaux de papier, et les cornes de ce dernier représentent son autorité à commander sa sombre meute à dissoudre l'espace lui-même."
   },
   "DragonheirsFalseFin": {
     "name": "Fausse nageoire de l'héritier du dragon",
     "description": "Un morceau de tissu biologique que vous avez trouvé après avoir vaincu un Élémentosaure abyssal.\\nBien qu'il ressemble à une sorte de nageoire, il n'a en fait aucune fonction.\\nLes habitants de Byakuyakoku ont déjà mené des études approfondies sur les Élémentosaures abyssaux. Leur caractéristique la plus distinctive est la possibilité de choisir les traits qu'ils souhaitent transmettre à leur progéniture. En raison de leur grande haine envers l'humanité, ces Élémentosaures perdent toute acuité visuelle quand ils atteignent l'âge adulte. Dans le même temps, ils ont également développé un certain degré de polymorphisme élémentaire à des fins de combat."
+  },
+  "MudraOfTheMaleficGeneral": {
+    "name": "Mudra du général maléfique",
+    "description": "Une articulation de marionnette obtenue dans le plan euthymique. Son geste représente le concept de ce que l'on voit et de ce que l'on fait.\\nMême maintenant qu'« elle » est devenue une divinité calamiteuse, elle peut toujours utiliser des gestes aussi transcendants, son épée jaillissant à la vitesse du regard.\\nEt pourtant, alors que d'innombrables désastres faisaient rage depuis bien trop longtemps, la carapace du général féroce dut embrasser un nouveau printemps."
+  },
+  "TearsOfTheCalamitousGod": {
+    "name": "Larmes de la divinité calamiteuse",
+    "description": "Une articulation de marionnette obtenue dans le plan euthymique. Le geste ici a la forme du funeste œil de jugement orageux.\\nÉtant donné qu'elles sont capables d'abattre la malédiction et de faire pleuvoir les catastrophes d'un simple regard, il peut paraître naturel d'attribuer les malheurs de la vie aux divinités calamiteuses. Cependant, si on y réfléchit d'un peu plus prêt, quand notre volonté est assez forte et nos convictions suffisamment fermes...\\nPeu importe les catastrophes, même un œil maléfique peut se laver de ses larmes."
+  },
+  "TheMeaningOfAeons": {
+    "name": "Signification d'une éternité",
+    "description": "Un petit couvre-chef que vous avez récupéré quand le calme est revenu dans le plan euthymique.\\nUne seule pensée peut mettre fin à toutes les calamités, et il y aura toujours des pensées pour transcender le temps.\\nMais au milieu de toutes ces catastrophes, on peut se demander si le véritable message de Makoto a pu faire son chemin."
   },
   "TileOfDecarabiansTower": {
     "name": "Tuile cassée de Décabarian",
@@ -7577,15 +7685,15 @@
   },
   "TheVisibleWinds": {
     "name": "« Vents visibles »",
-    "description": "Un matériau de raffinement spécifique à l'Ode aux alizées.\\nUne délicate décoration symbolisant les moulins à vent et les alizées, qui orne l'Ode aux alizées. Le vent est invisible et intouchable, mais fait tourner les moulins à vents, et les fleurs se balançant dans les champs émeraude sont les « vents visibles », qui rappellent au peuple que la brise sera toujours là pour Mondstadt."
+    "description": "Matériau de raffinement spécial pour l'Ode aux alizées.\\nUne délicate décoration symbolisant les moulins à vent et les alizées, qui orne l'Ode aux alizées. Le vent est invisible et intouchable, mais fait tourner les moulins à vents, et les fleurs se balançant dans les champs émeraude sont les « vents visibles », qui rappellent au peuple que la brise sera toujours là pour Mondstadt."
   },
   "FragmentsOfInnocence": {
     "name": "« Fragments d'innocence »",
-    "description": "Matériau de raffinement spécial des « Contes de Dodoco ».\\nDes pages éparpillées par le vent. Chacune d'entre elles est remplie d'émerveillements d'enfants, et leurs dimensions correspondent exactement à celles des « Contes de Dodoco ». L'abondance d'innocence et d'amour pur contenue dans ces pages ne disparaîtra jamais, tout comme l'aventure sans fin de ce livre. Ce conte de fées passionné suivra à jamais les traces de son auteur."
+    "description": "Matériau de raffinement spécial pour les Contes de Dodoco.\\nDes pages éparpillées par le vent. Chacune d'entre elles est remplie d'émerveillements d'enfants, et leurs dimensions correspondent exactement à celles des « Contes de Dodoco ». L'abondance d'innocence et d'amour pur contenue dans ces pages ne disparaîtra jamais, tout comme l'aventure sans fin de ce livre. Ce conte de fées passionné suivra à jamais les traces de son auteur."
   },
   "EmperorsBalsam": {
     "name": "Baume de l'Empereur",
-    "description": "Matériau de raffinement spécial pour l'arme « Illustre seigneur des mers ».\\nLa forte odeur de cette pâte semble renfermer l'essence de la vie marine. Étalez-la sur l'Illustre seigneur des mers pour durcir sa lame et la rendre plus résistante."
+    "description": "Matériau de raffinement spécial pour l'Illustre seigneur des mers.\\nLa forte odeur de cette pâte semble renfermer l'essence de la vie marine. Étalez-la sur l'Illustre seigneur des mers pour durcir sa lame et la rendre plus résistante."
   },
   "AkosSakeVessel": {
     "name": "Verre à saké d'Ako",
@@ -7593,7 +7701,11 @@
   },
   "Alkahest": {
     "name": "Alkahest",
-    "description": "Matériau de raffinement spécial pour l'arme « Fuseau de cinabre ».\\nUne substance argentée qui brille d'un éclat étranger et agit comme un poison corrosif mortel au contact des objets de ce monde. Pourtant, son pouvoir permet aussi de sublimer la matière..."
+    "description": "Matériau de raffinement spécial pour le Fuseau de cinabre.\\nUne substance argentée qui brille d'un éclat étranger et agit comme un poison corrosif mortel au contact des objets de ce monde. Pourtant, son pouvoir permet aussi de sublimer la matière..."
+  },
+  "OintmentOfSight": {
+    "name": "Baume de la vue",
+    "description": "Matériau de raffinement spécial pour l'Œil d'assermentation.\\nL'huile spéciale d'unagi abyssal, qui était autrefois utilisée pour entretenir les artéfacts sacrés d'Enkanomiya, a été soigneusement traitée dans le but de rendre cet œil brillant et lumineux."
   },
   "FalconsDance": {
     "name": "Danse du faucon",
@@ -7613,7 +7725,7 @@
   },
   "HuntersRomp": {
     "name": "Danse du chasseur",
-    "description": "Lorsqu'un ennemi est vaincu par une attaque chargée, les DGT des attaques chargées de tous les personnages de l'équipe sont augmentés de 35 % pendant 60 s. Cet effet peut être cumulé 5 fois, et se déclencher une fois toutes les 0,3 s."
+    "description": "Lorsqu'un ennemi est vaincu par une attaque chargée, les DGT des attaques chargées de tous les personnages de l'équipe sont augmentés de 35 % pendant 60 s. Cet effet peut être cumulé 5 fois maximum et déclenché une fois toutes les 0,3 s."
   },
   "Ironbow": {
     "name": "Arc de fer",
@@ -7633,7 +7745,7 @@
   },
   "BladeDance": {
     "name": "Danse de lames",
-    "description": "Les personnages disposent de 5 cumuls de l'effet Danse de lames, chaque cumul augmente les DGT des attaques normales de 15 %. À 5 cumuls, la VIT des attaques normales augmente de 15 %. Lorsqu'un personnage subit des DGT, il perd 1 cumul de Danse de lames. Un maximum de 1 cumul peut être perdu toutes les secondes de cette manière. Un personnage gagne un cumul de Danse de lames toutes les 10 s qu'il passe sur le champ de bataille, jusqu'à un maximum de 5 cumuls. Le TdR, le nombre de cumuls et les effets sont calculés indépendamment pour tous les personnages."
+    "description": "Les personnages disposent de 5 cumuls de l'effet Danse de lames, chaque cumul augmentant les DGT des attaques normales de 15 %. Avec 5 cumuls, la VIT d'attaque normale augmente de 15 %. Lorsqu'un personnage subit des DGT, il perd 1 cumul de Danse de lames. Un maximum de 1 cumul peut être perdu toutes les secondes de cette manière. Un personnage gagne un cumul de Danse de lames toutes les 10 s qu'il passe sur le champ de bataille, jusqu'à un maximum de 5 cumuls. Le TdR, le nombre de cumuls et les effets sont calculés indépendamment pour tous les personnages."
   },
   "Courageous": {
     "name": "Vaillance",
@@ -7665,7 +7777,7 @@
   },
   "EndlessWaltz": {
     "name": "Valse éternelle",
-    "description": "Après avoir utilisé un déchaînement élémentaire, tous les personnages de l'équipe déployés sur le champ de bataille déclenchent une onde de choc, infligeant des DGT aux ennemis proches équivalant à 600 % de l'ATQ du personnage ayant libéré l'onde de choc. Cet effet peut être déclenché une fois toutes les 2 s, et son TdR est partagé entre tous les personnages de l'équipe."
+    "description": "Après avoir utilisé un déchaînement élémentaire, tous les personnages de l'équipe déployés sur le champ de bataille libèrent une onde de choc, infligeant des DGT aux ennemis proches équivalant à 600 % de l'ATQ du personnage ayant libéré l'onde de choc. Cet effet peut être déclenché une fois toutes les 2 s, et son TdR est partagé entre tous les personnages de l'équipe."
   },
   "RefinedBurst": {
     "name": "Déchaînement amélioré",
@@ -7757,7 +7869,7 @@
   },
   "DanceOfAbundance": {
     "name": "Danse de l'abondance",
-    "description": "Après avoir utilisé un déchaînement élémentaire, un effet de profusion élémentaire se déclenche, augmentant les DGT infligés par les déchaînements élémentaires de tous les personnages de l'équipe de 12 % pendant 15 s. Cet effet peut être cumulé 5 fois. Avec 5 cumuls, la VIT des attaques normales augmente de 15 %."
+    "description": "Après avoir utilisé un déchaînement élémentaire, un effet de profusion élémentaire se déclenche, augmentant les DGT infligés par les déchaînements élémentaires de tous les personnages de l'équipe de 12 % pendant 15 s. Cet effet peut être cumulé 5 fois maximum. Avec 5 cumuls, la VIT d'attaque normale augmente de 15 %."
   },
   "Conductivity": {
     "name": "Conductivité",
@@ -8207,6 +8319,18 @@
     "name": "PB - Teinte fluide",
     "description": "Thème.\\nLes couleurs vives qui passent se transforment en mille images"
   },
+  "CelebrationBingeVessel": {
+    "name": "Célébration - Enivrement",
+    "description": "Thème.\\nIl y a beaucoup d'histoires ici, mais pas une goutte d'alcool. Paimon peut donc boire sans souci."
+  },
+  "YaeMikoKitsuneDreaming": {
+    "name": "Yae Miko - Kitsune rêveuse",
+    "description": "Thème.\\nOù peut-on apercevoir la forme de renard de Yae Miko ? Dans vos rêves, évidemment."
+  },
+  "TravelNotesAwakening": {
+    "name": "PB - Éveil",
+    "description": "Thème.\\nLes Trois Royaumes tremblent, alors que le ciel et la terre s'éveillent. Les sangocorex, eux aussi, se relèvent de leur sommeil éternel."
+  },
   "AnemoculusResonanceStone": {
     "name": "Pierre de résonance Anémoculus",
     "description": "Outil permettant de détecter les Anémoculus proches à Mondstadt.\\nUn disque de pierre fabriqué par l'homme, dont les caractéristiques se rapprochent de celles des Statues des Sept et capable de résonner avec les Anémoculus.\\nCe type de pierre résonnant avec les Oculus est un dérivé maladroit des Statues des Sept construites autrefois à travers les terres. C'est précisément cette infériorité qui explique cette soif de résonance vis-à-vis des statues représentant les Archons, en faisant un ustensile prisé des aventuriers et des croyants pour la collecte d'Oculus."
@@ -8309,7 +8433,7 @@
   },
   "StraightShooter": {
     "name": "Bombe directe",
-    "description": "Une bombe harpastum au poids ajusté, ce qui la rend facile à contrôler et permet une bonne visée. Elle peut infliger d'importants DGT Pyro à un adversaire unique."
+    "description": "Une bombe harpastum au poids ajusté, ce qui la rend facile à contrôler et permet une bonne visée. Elle peut infliger d'importants DGT Pyro à un ennemi unique."
   },
   "FloatySplody": {
     "name": "Bombe explosive",
@@ -8367,6 +8491,10 @@
     "name": "Tube de tir",
     "description": "Un objet créé par Pengyu qui permet la création et le tir automatique de feux d'artifice. Une âme créative pourrait donner naissance à un splendide spectacle grâce aux possibilités infinies qu'il propose."
   },
+  "BokusoBox": {
+    "name": "Boîte de Bokuso",
+    "description": "Utilisez cette boîte pour dissiper l'influence des ténèbres dans une certaine zone d'Enkanomiya.\\nLe nom « Bokuso » est formé de «{NON_BREAK_SPACE}boku{NON_BREAK_SPACE}», qui signifie « s'approcher de ce qui est bon », et « so », qui signifie « éviter ce qui est souillé{NON_BREAK_SPACE}»."
+  },
   "InstructionsAnemoculusResonanceStone": {
     "name": "Instructions : Pierre de résonance Anémoculus",
     "description": "Instructions détaillées pour la fabrication d'une Pierre de résonance Anémoculus. Une fois maîtrisées, celles-ci vous permettront de créer un outil capable de localiser les Anémoculus."
@@ -8417,7 +8545,7 @@
   },
   "SaimonHeirloomBladeDiagram": {
     "name": "Plan : Lame familiale des Saimon",
-    "description": "Le Clan Saimon possédait ce schéma expliquant comment fabriquer la lame kageuchi d'Amenoma (Épée). Vous pouvez l'utiliser pour maîtriser l'art de fabriquer cette arme."
+    "description": "Le Clan Saimon possédait ce schéma expliquant comment fabriquer la Lame kageuchi d'Amenoma (Épée). Vous pouvez l'utiliser pour maîtriser l'art de fabriquer cette arme."
   },
   "DiagramKatsuragikiriNagamasa": {
     "name": "Plan : Espadon de Nagamasa",
@@ -8526,6 +8654,22 @@
   "OpulentSplendor": {
     "name": "Splendeur opulente",
     "description": "Tenue formelle de Keqing. Dans la splendeur du Festival des lanternes, des fils ont été tissés pendant des jours de labeur pour assembler cette tenue du soir pleine de légèreté et d'élégance."
+  },
+  "GunnhildrsLegacy": {
+    "name": "Héritage de Gunnhildr",
+    "description": "Tenue de Jean. Cette classique tenue de cérémonie de chevalier convient à toutes sortes d'occasions."
+  },
+  "Outrider": {
+    "name": "Éclaireuse 100{NON_BREAK_SPACE}%",
+    "description": "Tenue d'Amber. C'est une version plus formelle, mais non moins cool, de l'uniforme des Éclaireurs !"
+  },
+  "PactOfStarsAndMoon": {
+    "name": "Pacte des étoiles et de la lune",
+    "description": "Tenue de Mona. Un costume spécialement conçu pour englober le concept astrologique du « moment destiné », obtenu grâce au coupon de remboursement de 30 % après avoir rendu le globe céleste !"
+  },
+  "ToTheChurchsFreeSpirit": {
+    "name": "Dévote non-conformiste",
+    "description": "Tenue de Rosalia. Elle semble avoir été confectionnée sur mesure par l'Église."
   },
   "AdventurerCamp": {
     "name": "Campement d'aventurier",
@@ -8713,7 +8857,7 @@
   },
   "WakefulSpring": {
     "name": "Source revigorante",
-    "description": "Étapes de mise en place de la source revigorante.\\nUne source chaude en plein air toute équipée. Les minéraux et les éléments présents ici ne sont peut-être pas à l'égal de ceux des Bains Aisa, mais les sources chaudes de ce type sont supérieures en termes d'atmosphère détendue et décontractée et de manque relatif de réglementation.\\nJuste une demi-heure d'immersion ici et toute la fatigue que vous avez accumulée de votre dur labeur se dissipera dans le néant, remplacée par une vigueur réveillée. Si vous avez le temps, vous pouvez même vous appuyer contre une des pierres blanches à proximité et prendre un thé pour discuter avec vos amis.\\nBien sûr, veuillez garder une étiquette de base à l'esprit avant d'entrer : profiter de la source chaude avec des amis, c'est bien, mais ne restez pas trop longtemps. Si vous y passez trop de temps avec des gens bavards comme la reine du festival d'été, vous pourriez avoir des vertiges.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\\nCompagnons préférant ce set : Yoimiya, Gorou."
+    "description": "Étapes de mise en place de la source revigorante.\\nUne source chaude en plein air toute équipée. Les minéraux et les éléments présents ici ne sont peut-être pas à l'égal de ceux des Bains Aisa, mais les sources chaudes de ce type sont supérieures en termes d'atmosphère détendue et décontractée et de manque relatif de réglementation.\\nJuste une demi-heure d'immersion ici et toute la fatigue que vous avez accumulée de votre dur labeur se dissipera dans le néant, remplacée par une vigueur réveillée. Si vous avez le temps, vous pouvez même vous appuyer contre une des pierres blanches à proximité et prendre un thé pour discuter avec vos amis.\\nBien sûr, veuillez garder une étiquette de base à l'esprit avant d'entrer : profiter de la source chaude avec des amis, c'est bien, mais ne restez pas trop longtemps. Si vous y passez trop de temps avec des gens bavards comme la reine du festival d'été, vous pourriez avoir des vertiges.\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\\nCompagnons préférant ce set : Yoimiya, Gorou, Yae Miko."
   },
   "RuralConcealment": {
     "name": "Dissimulation rurale",
@@ -8721,7 +8865,7 @@
   },
   "AncientBranchShrine": {
     "name": "Sanctuaire de la branche antique",
-    "description": "Étapes de mise en place du sanctuaire de la branche antique.\\nL'architecture, la peinture rouge et la structure d'ensemble de ce magnifique sanctuaire rappelle celui de Narukami. Les mortels s'y rendent pour méditer, mais pour Son Excellence la Shogun, il suffit de le voir pour lui donner le souvenir flou, quoique vif, d'un temps oublié...\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\\nCompagnon préférant ce set : Shogun Raiden."
+    "description": "Étapes de mise en place du sanctuaire de la branche antique.\\nL'architecture, la peinture rouge et la structure d'ensemble de ce magnifique sanctuaire rappelle celui de Narukami. Les mortels s'y rendent pour méditer, mais pour Son Excellence la Shogun, il suffit de le voir pour lui donner le souvenir flou, quoique vif, d'un temps oublié...\\nAprès utilisation, ce plan sera disponible dans l'interface de placement des décorations.\\nCompagnons préférant ce set : Shogun Raiden, Yae Miko."
   },
   "MilitaryExerciseGrounds": {
     "name": "Terrain d'exercices militaires",
@@ -9224,8 +9368,8 @@
     "description": "Étapes de fabrication de l'écran chasse-esprit.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "DivineNoseKitsuKitsuDaruma": {
-    "name": "Daruma kitsune « Nez divin »",
-    "description": "Étapes de fabrication du daruma kitsune « Nez divin ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+    "name": "Daruma Kitsune « Nez divin »",
+    "description": "Étapes de fabrication du daruma Kitsune « Nez divin ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "TrueCookeryNukiNukiDaruma": {
     "name": "Daruma tanuki « Authenticité culinaire »",
@@ -9619,6 +9763,18 @@
     "name": "Entrepôt de domaine « Réserves »",
     "description": "Étapes de fabrication de l'entrepôt de domaine « Réserves ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
+  "InazumanHomeWatatsumiReminiscence": {
+    "name": "Maison inazumienne «{NON_BREAK_SPACE}Réminiscence watatsumienne{NON_BREAK_SPACE}»",
+    "description": "Étapes de fabrication de la maison inazumienne « Réminiscence watatsumienne ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+  },
+  "InazumanHomeHouseOfCoral": {
+    "name": "Maison inazumienne « Logis de corail »",
+    "description": "Étapes de fabrication de la maison inazumienne « Logis de corail ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+  },
+  "InazumanHomeStormhouse": {
+    "name": "Maison inazumienne « Gîte de tempête »",
+    "description": "Étapes de fabrication de la maison inazumienne « Gîte de tempête ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+  },
   "BirdAndBlossomDesignFountain": {
     "name": "Fontaine à fleurs et oiseaux",
     "description": "Étapes de fabrication de la fontaine à fleurs et oiseaux.\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
@@ -9670,6 +9826,10 @@
   "OfFieldsGreenClearSpringFountain": {
     "name": "Éden verdoyant «{NON_BREAK_SPACE}Fontaine cristalline »",
     "description": "Étapes de fabrication de l'éden verdoyant « Fontaine cristalline ».\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
+  },
+  "SubSpaceCabochonInSoaringFlight": {
+    "name": "Cabochon dimensionnel «{NON_BREAK_SPACE}Vol plané{NON_BREAK_SPACE}»",
+    "description": "Étapes de fabrication du cabochon dimensionnel « Vol plané »\\nAprès utilisation, ce plan sera disponible dans l'interface de fabrication des décorations."
   },
   "AdeptusGate": {
     "name": "Portail des Adeptes",

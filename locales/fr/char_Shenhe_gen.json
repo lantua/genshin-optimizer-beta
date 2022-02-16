@@ -56,7 +56,7 @@
       "12": "Les effets du pennage glacé disparaissent à la fin de sa durée ou après avoir activé un certain nombre de cumuls. En utilisant un pennage glacé avec un appui long à la place d'un appui simple, sa durée et le nombre de cumuls générés augmentent.",
       "13": "Lorsqu'une attaque de <cryo>DGT Cryo</cryo> touche plusieurs ennemis en même temps, les cumuls sont consommés selon le nombre d'ennemis touchés. Les cumuls de pennage glacé sont calculés indépendamment pour tous les personnages de l'équipe.",
       "14": "<br/>",
-      "15": "<i>« Le pouvoir des esprits n'est pas un mensonge. Même accablée par les ordres, la demoiselle divine continue ! »</i>"
+      "15": "<i>« Le pouvoir des esprits n'est pas un mensonge. Même accablée par les ordres, la demoiselle divine continue !{NON_BREAK_SPACE}»</i>"
     },
     "skillParams": {
       "0": "DGT appui simple",
@@ -151,7 +151,7 @@
       "0": "Lorsqu'un personnage affecté par le <strong>pennage glacé</strong> de Shenhe déclenche l'effet de bonus de DGT de la flèche, Shenhe obtient 1 cumul de Mantra de givre :",
       "1": [
         " Lorsque Shenhe utilise <strong>Invocation d'esprit printanier</strong>, tous les cumuls de Mantra de givre sont consommés pour augmenter les DGT infligés par cette invocation d'esprit printanier de 5 % pour chaque cumul consommé.",
-        " Cet effet peut être cumulé 50 fois, et dure 60 s."
+        " Cet effet peut être cumulé 50 fois maximum, et dure 60 s."
       ]
     }
   },

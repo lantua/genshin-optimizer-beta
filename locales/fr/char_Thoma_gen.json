@@ -116,7 +116,7 @@
     "name": "Superposition d'armures",
     "description": {
       "0": "Lorsque le personnage déployé obtient ou actualise une <strong>barrière brûlante</strong>, la force de son bouclier augmente de 5 % pendant 6 s.",
-      "1": "Cet effet peut être déclenché une fois toutes les 0,3 s et cumulé jusqu'à 5 fois."
+      "1": "Cet effet peut être déclenché une fois toutes les 0,3 s et cumulé 5 fois maximum."
     }
   },
   "passive2": {
