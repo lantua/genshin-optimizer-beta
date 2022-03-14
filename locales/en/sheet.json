@@ -43,6 +43,7 @@
   "charges": "Charges",
   "activeCharField": "Active Character in field",
   "takeDmg": "On taking DMG",
+  "onHit": "On Hit",
   "infusion": {
     "pyro": "Pyro Infusion",
     "cryo": "Cryo Infusion",
@@ -51,5 +52,9 @@
     "electro": "Electro Infusion",
     "dendro": "Dendro Infusion",
     "geo": "Geo Infusion"
-  }
+  },
+  "base": "Base",
+  "stacks": "Stacks",
+  "hits": "Hits",
+  "protectedByShield": "Protected by a shield"
 }
