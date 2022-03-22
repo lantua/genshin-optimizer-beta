@@ -8,6 +8,10 @@
   "lessEqPercentHP": "HP less than or equal to {{percent}}%",
   "greaterPercentHP": "HP greater than {{percent}}%",
   "greaterEqPercentHP": "HP greater than or equal to {{percent}}%",
+  "enemyLessPercentHP": "Enemy HP less than {{percent}}%",
+  "enemyLessEqPercentHP": "Enemy HP less than or equal to {{percent}}%",
+  "enemyGreaterPercentHP": "Enemy HP greater than {{percent}}%",
+  "enemyGreaterEqPercentHP": "Enemy HP greater than or equal to {{percent}}%",
   "stack_one": "{{count}} Stack",
   "stack_other": "{{count}} Stacks",
   "member_one": "{{count}} Member",
@@ -48,7 +52,9 @@
   "absorDot": "Absorption DoT",
   "incInterRes": "Increase resistance to interruption",
   "charges": "Charges",
+  "addlCharges": "Additional charges",
   "activeCharField": "Active Character in field",
+  "opponentsField": "Opponents in field",
   "takeDmg": "On taking DMG",
   "onHit": "On Hit",
   "infusion": {
@@ -61,19 +67,20 @@
     "geo": "Geo Infusion"
   },
   "energyRegen": "Energy Regeneration",
-  "affectDuration":{
-    "pyro": "Pyro affect duration",
-    "cryo": "Cryo affect duration",
-    "anemo": "Anemo affect duration",
-    "hydro": "Hydro affect duration",
-    "electro": "Electro affect duration",
-    "dendro": "Dendro affect duration",
-    "geo": "Geo affect duration"
+  "effectDuration":{
+    "pyro": "Pyro effect duration",
+    "cryo": "Cryo effect duration",
+    "anemo": "Anemo effect duration",
+    "hydro": "Hydro effect duration",
+    "electro": "Electro effect duration",
+    "dendro": "Dendro effect duration",
+    "geo": "Geo effect duration"
   },
+  "durationInc": "Duration increase",
   "base": "Base",
-  "conditional": "Conditional",
   "stacks": "Stacks",
   "members": "Members",
   "hits": "Hits",
-  "protectedByShield": "Protected by a shield"
+  "protectedByShield": "Protected by a shield",
+  "protectedByShieldCrystal": "Protected by a shield created by Crystallize"
 }
