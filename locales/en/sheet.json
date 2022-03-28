@@ -23,6 +23,7 @@
   "uses_other": "{{count}} Uses",
   "afterDefeatEnemy": "After defeating an opponent",
   "hitOp": {
+    "none": "Hits on opponents",
     "normal": "Normal Attack hits on opponents",
     "charged": "Charged Attack hits on opponents",
     "normalOrCharged": "Normal / Charged Attack hits on opponents",
@@ -35,7 +36,8 @@
     "hydro": "Hydro DMG hits on opponents",
     "cryo": "Cryo DMG hits on opponents",
     "pyro": "Pyro DMG hits on opponents",
-    "electro": "Electro DMG hits on opponents"
+    "electro": "Electro DMG hits on opponents",
+    "crit": "Crit hits on opponents"
   },
   "afterUse": {
     "skill": "After using Elemental Skill",
@@ -47,8 +49,10 @@
     "atk": "ATK Increase"
   },
   "skillCDRed": "Ele. Skill CD Reduction",
+  "burstCDRed": "Ele. Burst CD Reduction",
   "pressCD": "Press CD",
   "holdCD": "Hold CD",
+  "triggerCD": "Trigger CD",
   "eleAbsor": "Elemental Absorption",
   "eleSwirled": "Swirled Element",
   "absorDot": "Absorption DoT",
@@ -85,5 +89,15 @@
   "members": "Members",
   "hits": "Hits",
   "protectedByShield": "Protected by a shield",
-  "protectedByShieldCrystal": "Protected by a shield created by Crystallize"
+  "protectedByShieldCrystal": "Protected by a shield created by Crystallize",
+  "staminaDec_": "Stamina Consumption Decrease",
+  "dmgAbsorption": {
+    "pyro": "Pyro DMG Absorption",
+    "cryo": "Cryo DMG Absorption",
+    "anemo": "Anemo DMG Absorption",
+    "hydro": "Hydro DMG Absorption",
+    "electro": "Electro DMG Absorption",
+    "dendro": "Dendro DMG Absorption",
+    "geo": "Geo DMG Absorption"
+  }
 }
