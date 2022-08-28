@@ -25,7 +25,7 @@
       "1": "2-Hit DMG",
       "2": "3-Hit DMG",
       "3": "4-Hit DMG",
-      "4": "Charged Attack Spinning DMG",
+      "4": "Charged Attack Cyclic DMG",
       "5": "Charged Attack Final DMG",
       "6": "Charged Attack Stamina Cost",
       "7": "Max Duration",
@@ -105,7 +105,7 @@
     }
   },
   "passive1": {
-    "name": "\"The Show Goes On, Even Without An Audience...\"",
+    "name": "\"The Show Goes On, Even Without an Audience...\"",
     "description": {
       "0": "Decreases the number of opponents <strong>Sweeping Fervor</strong> must hit to trigger each level of shielding.",
       "1": [
